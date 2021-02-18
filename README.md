@@ -43,6 +43,34 @@ write a program using join(millisecond) method.
 Program 8 Practice thread(TestJoinMethod.java)
 write a program to using join method.
 
+Program 9 Practice Pattern Program(RightPascalTriangle.java)
+write a program to practice Right Pascal Triangle star Patern.
+
+Program 10 Practice Pattern Program(RightDownMirrorPattern.java)
+write a program to practice Right Down Mirror star Patern.
+
+Program 8 Practice Pattern Program(RtTiangleStar.java)
+write a program to practice Right Triangle star Patter.
+
+Program 8 Practice Pattern Program(ReversePyramidPattern.java)
+write a program to practice Reverse pyramid Pattern.
+
+Program 8 Practice Pattern Program(Pyramid.java)
+write a program to practice Pyramid Pattern.
+
+Program 8 Practice Pattern Program(MirrorTrianglePattern.java)
+write a program to practice Mirror Triangle star Pattern.
+
+Program 8 Practice Pattern Program(LeftTiangleStar.java)
+write a program to practice Left Triangle star Pattern.
+
+Program 8 Practice Pattern Program(LeftTianglePascalStar.java)
+write a program to practice Left Triangle Pascal star Pattern.
+
+Program 8 Practice Pattern Program(DownTiangleStarPattern.java)
+write a program to practice Down Triangle star Pattern.
+
+
 Adv_Java_Practice
 Program 1 (Date)
 Description of program
