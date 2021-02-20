@@ -70,6 +70,21 @@ write a program to practice Left Triangle Pascal star Pattern.
 Program 17 Practice Pattern Program(DownTiangleStarPattern.java)
 write a program to practice Down Triangle star Pattern.
 
+Program 18 Practice Thread Program(TestThreadPriority.java)
+write a program to create an example of threadpriority.
+
+Program 19 Practice Pattern Program(TestDaemonThread.java)
+write a program to create daemon thread.
+
+Program 20 Practice Pattern Program(TestDaemonThread2.java)
+write a program on making user thread as daemon after starting the user thread.
+
+Program 21 Practice Pattern Program(TestThreadPool.java)
+write a program to create a thread pool of 10 using executorService and executor class.
+
+Program 22 Practice Pattern Program(ThreadGroupDemo.java)
+write a program to create a threadgroup  of 5 threads.
+
 
 Adv_Java_Practice
 Program 1 (Date)
