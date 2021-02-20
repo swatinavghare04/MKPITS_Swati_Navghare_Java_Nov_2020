@@ -20,6 +20,7 @@ Program 6 ()
 
 
 Core_Java_Practice
+
 Program 1 Practice thread(TestThreadEx1.java)
 write a program to create a thread by extending thread class.
 
@@ -88,6 +89,7 @@ write a program to create a threadgroup  of 5 threads.
 
 
 Adv_Java_Practice
+
 Program 1 (Date)
 Description of program
 
