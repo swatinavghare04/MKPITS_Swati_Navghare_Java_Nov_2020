@@ -85,6 +85,57 @@ write a program to create a thread pool of 10 using executorService and executor
 Program 22 Practice Pattern Program(ThreadGroupDemo.java)
 write a program to create a threadgroup  of 5 threads.
 
+Program 23 Practice Thread Program(Runtime4.java)
+write a program to know about the Runtime available processors.
+
+Program 24 Practice Thread Program(TestSynchronizedBlock.java)
+write a program of synchronized block.
+
+Program 25 Practice Thread Program(TestSynchronizedBlock2.java)
+write a program of synchronized block by using annonymous class.
+
+Program 26 Practice Thread Program(Runtime2.java)
+write a program of java Runtime exec() method for shutdown.
+
+Program 27 Practice Thread Program(Runtime1.java)
+write a program for Runtime exec() method.
+
+Program 28 Practice Thread Program(TestMultitasking1.java)
+write a Program of performing single task by multiple threads.
+
+Program 29 Practice Thread Program(TestMultitasking2.java)
+write a Program of performing single task by multiple threads -  Runnable interface.
+
+Program 30 Practice Thread Program(TestMultitasking5.java)
+write a Program of performing two task by two threads --  annonymous class that implements Runnable interface.
+
+Program 31 Practice Thread Program(TestSynchronization.java)
+write a program of without Synchronization.
+
+Program 32 Practice Thread Program(TestMultitasking3.java)
+write a Program of performing two task by two threads..
+
+Program 33 Practice Thread Program(MemoryTest.java)
+write a program of Java Runtime freMemory() and totalMemory() method.
+
+Program 34 Practice Thread Program(TestMultitasking4.java)
+write a Program of performing two task by two threads --  annonymous class that extends thread.
+
+Program 35 Practice Thread Program(TestSynchronization1.java)
+write a Program of Synchronization method.
+
+Program 35 Practice Thread Program(TestSynchronization2.java)
+write a program of synchronized method by using annonymous class.
+
+Program 35 Practice Thread Program(TestShutdown1.java)
+write a Program of Shutdown Hook.
+
+Program 35 Practice Thread Program(TestShutdown2.java)
+write a Program of Shutdown Hook by annonymous class.
+
+Program 35 Practice Thread Program(TestSynchronization1.java)
+write a Program of Synchronization method.
+
 
 Adv_Java_Practice
 Program 1 (Date)
