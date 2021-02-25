@@ -124,17 +124,50 @@ write a Program of performing two task by two threads --  annonymous class that 
 Program 35 Practice Thread Program(TestSynchronization1.java)
 write a Program of Synchronization method.
 
-Program 35 Practice Thread Program(TestSynchronization2.java)
-write a program of synchronized method by using annonymous class.
+Program 36 Practice toString Program(TesttoString.java)
+write a program of toString () method.
 
-Program 35 Practice Thread Program(TestShutdown1.java)
-write a Program of Shutdown Hook.
+Program 37 Practice throws Program(TestThrows3.java)
+write a program of java if exception not occur.
 
-Program 35 Practice Thread Program(TestShutdown2.java)
-write a Program of Shutdown Hook by annonymous class.
+Program 38 Practice throws Program(TestThrows2.java)
+write a program of java throws when we handle the exception..
 
-Program 35 Practice Thread Program(TestSynchronization1.java)
-write a Program of Synchronization method.
+Program 39 Practice throws Program(TestThrows1.java)
+write a Program of java throws clause.
+
+Program 40 Practice throws Program(TestThrows4.java)
+write a program of java if exception not occur.
+
+Program 41 Practice throw Program(TestThrowKeyword.java)
+write a Program of java throw keyword.
+
+Program 42 Practice finalize Program(TestFinalize1.java)
+write a Program of java finalize() method.
+
+Program 43 Practice finalize Program(FinalizeExample.java)
+write a Program of java finalize() method.
+
+Program 44 Practice finallyBlock Program(TestfinallyBlock1.java)
+write a Program of java finally example where exception occurs and not handled..
+
+Program 45 Practice finallyBlock Program(TestfinallyBlock2.java)
+write a Program of java finally example where exception occurs and handled.
+
+Program 46 practice finally Program(TestfinallyBlock.java)
+write a Program of java finally example where exception doesn't occur.
+
+Program 47 Practice Exception Propagtion Program(TestExceptionPropagation.java)
+write a Program of Exception Propagation.
+
+Program 48 Practice Exception Propagtion Program(MultipleCatchBlock1.java)
+write a Program of Exception Propagation.
+
+Program 49 Practice multi-catch block Program(MultiCatchBlock1.java)
+write a Program of java multi-catch block.
+
+Program 50 Practice multi-catch block Program(MultiCatchBlock2.java)
+write a program of java multi-catch block.(2)
 
 
 Adv_Java_Practice
