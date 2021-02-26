@@ -1,4 +1,4 @@
-// example of string using String substring
+// example of string using substring
 
 class Stringex1
 {
