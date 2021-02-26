@@ -172,6 +172,9 @@ write a Program of java multi-catch block.
 Program 50 Practice multi-catch block Program(MultiCatchBlock2.java)
 write a program of java multi-catch block.(2)
 
+Program 51 Practice pattern Program(NumberPattern.java)
+write a program for numeric pattern - Simple uber pattern.
+
 
 Adv_Java_Practice
 
