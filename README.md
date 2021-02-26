@@ -145,7 +145,7 @@ write a Program of java throw keyword.
 Program 42 Practice finalize Program(TestFinalize1.java)
 write a Program of java finalize() method.
 
-Program 43 Practice finalize Program(FinalizeExample.java)
+Program 43 Practice finalize Program(TestFinalize.java)
 write a Program of java finalize() method.
 
 Program 44 Practice finallyBlock Program(TestfinallyBlock1.java)
