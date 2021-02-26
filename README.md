@@ -256,6 +256,43 @@ write a program of string method - string trim().
 Program 78 Practice String Program(Stringex17.java)
 write a program of string method - static string valeOf(int value).
 
+Program 79 Practice StringBuilder Program(StringBuilderEx01.java)
+write a program of stringBuilder - append() method.
+
+Program 80 Practice StringBuilder Program(StringBuilderEx2.java)
+write a program of stringBuilder - insert() method.
+
+Program 81 Practice String Program(StringBuilderEx3.java)
+write a program of stringBuilder - insert() method.
+
+Program 82 Practice String Program(StringBuilderEx2.java)
+write a program of stringBuilder - insert() method.
+
+Program 83 Practice String Program(StringBuilderEx3.java)
+write a program of stringBuilder - replace() method.
+
+Program 84 Practice String Program(StringBuilderEx4.java)
+write a program of stringBuilder - delete() method.
+
+Program 85 Practice String Program(StringBuilderEx5.java)
+write a program of stringBuilder - reverse() method.
+
+Program 86 Practice String Program(StringBuilderEx6.java)
+write a program of stringBuilder - capacity() method.
+
+Program 87 Practice String Program(StringBuilderEx7.java)
+write a program of stringBuilder - ensurecapacity() method.
+
+Program 88 Practice call by value Program(operation.java)
+write a program of string method - static string valeOf(int value).
+
+Program 89 Practice String Program(operation2.java)
+write a program for java string class method.
+
+Program 90 Practice String Program(operation3.java)
+write a program of string method example using for loop.
+
+
 
 Adv_Java_Practice
 
