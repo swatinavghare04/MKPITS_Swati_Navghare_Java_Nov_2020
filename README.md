@@ -175,6 +175,36 @@ write a program of java multi-catch block.(2)
 Program 51 Practice pattern Program(NumberPattern.java)
 write a program for numeric pattern - Simple uber pattern.
 
+Program 52 Practice Excepton propagation Program(MultipleCatchBlock2.java)
+write a program for Exception propagation.
+
+Program 53 Practice Exception propagation Program(MultipleCatchBlock3.java)
+write a Program which describes that checked exceptions are not propagated.
+
+Program 54 Practice Exception propagation Program(MultipleCatchBlock4.java)
+write a Program which describes that checked exceptions are propagated.
+
+Program 55 Practice Multi-catch block Program(MultiCatchBlock3.java)
+write a program for java multi-catch block.
+
+Program 56 Practice Multi-catch block Program(MultiCatchBlock4.java)
+write a program for java multi-catch block.
+
+Program 57 Practice Multi-catch block Program(MultiCatchBlock5.java)
+write a program for java multi-catch block.
+
+Program 58 Practice Multi-catch block Program(MultiCatchBlock6.java)
+write a program for java multi-catch block.
+
+Program 59 Practice pattern Program(NumberPattern.java)
+write a program for numeric pattern - Simple uber pattern.
+
+Program 60 Practice pattern Program(NumberPattern.java)
+write a program for numeric pattern - Simple uber pattern.
+
+Program 51 Practice pattern Program(NumberPattern.java)
+write a program for numeric pattern - Simple uber pattern.
+
 
 Adv_Java_Practice
 
