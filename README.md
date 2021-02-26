@@ -292,6 +292,47 @@ write a program for java string class method.
 Program 90 Practice String Program(operation3.java)
 write a program of string method example using for loop.
 
+Program 91 Practice static nested class Program(TestOuter1.java)
+write a program of java static nested class with instance method.
+
+Program 92 Practice static nested class Program(TestOuter2.java)
+write a program of java static nested class with static method.
+
+Program 93 Practice Exception Handling Program(TestExceptionChild.java)
+write a program of java Exception handling with method overriding.
+
+Program 94 Practice Exception Handling Program(TestExceptionChild1.java)
+write a program of Exception handling with method overriding.
+
+Program 95 Practice Exception Handling Program(TestExceptionChild2.java)
+write a program of java in case subclass overriden method declare parent exception.
+
+Program 96 Practice Exception Handling Program(TestExceptionChild3.java)
+write a program of java in case subclass overriden method declare same exception.
+
+Program 97 Practice Exception Handling Program(TestExceptionChild4.java)
+write a program of java in case subclass overriden method declares no exception
+
+Program 98 Practice Exception Handling Program(TestExceptionChild5.java)
+write a program of java in case subclass overriden method declare subclass exception.
+
+Program 99 Practice Nested Interface Program(TestNestedInterface1.java)
+write a program of nested interface which is declared within the interface.
+
+Program 100 Practice Nested Interface Program(TestNestedInterface2.java)
+write a program of nested interface which is declared within the class.
+
+Program 101 Practice Nested Interface Program(TestNestedInterface3.java)
+write a program of nested interface which is declared within the class.
+
+Program 102 Practice Inner class Program(TestAnonymousInner1.java)
+write a program of java anonymous inner class example using interface.
+
+Program 103 Practice Inner class Program(TestAnonymousInner.java)
+write a program of java anonymous inner class example using class.
+
+Program 104 Practice Nested try Block Program(Excep6.java)
+write a program of java nested try block.
 
 
 Adv_Java_Practice
