@@ -334,6 +334,30 @@ write a program of java anonymous inner class example using class.
 Program 104 Practice Nested try Block Program(Excep6.java)
 write a program of java nested try block.
 
+Program 105 Practice StringBuffer Program(StringBufferExample.java)
+write a program of java StringBuffer - append() method.
+
+Program 106 Practice StringBuffer Program(StringBufferExample2.java)
+write a program of java StringBuffer - insert() method.
+
+Program 107 Practice StringBuffer Program(StringBufferExample21.java)
+write a program of java StringBuffer - insert() method -  input entered by the user.
+
+Program 108 Practice StringBuffer Program(StringBufferExample3.java)
+write a program of java StringBuffer - replace() method.
+
+Program 109 Practice StringBuffer Program(StringBufferExample4.java)
+write a program of java StringBuffer - delete() method.
+
+Program 110 Practice StringBuffer Program(StringBufferExample5.java)
+write a program of java StringBuffer - reverse() method.
+
+Program 111 Practice StringBuffer Program(StringBufferExample6.java)
+write a program of java StringBuffer - capacity() method.
+
+Program 112 Practice StringBuffer Program(StringBufferExample7.java)
+write a program of java StringBuffer - ensureCapacity() method.
+
 
 Adv_Java_Practice
 
