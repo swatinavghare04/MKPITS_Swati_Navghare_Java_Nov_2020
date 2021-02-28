@@ -1,13 +1,9 @@
+package pro;
 
-import java.lang.*;
-class parent
-{}
-class tob extends parent
+public class parent
 {
-  public static void main(String[] args)
-  {
-    parent t = new parent();
-    Object obj = t.getClass();
-    System.out.println("obj =" +obj);
-  }
+ protected void showmethod()
+{
+System.out.println("Showmethod");
+}
 }

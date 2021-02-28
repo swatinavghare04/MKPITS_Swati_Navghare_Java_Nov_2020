@@ -1,5 +1,5 @@
 
-//inheritance
+//Example of inheritance
 
 class employee
 {

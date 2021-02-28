@@ -1,4 +1,4 @@
-
+// WAP to accept month and display the days in that month using switch.
 import java.util.*;
 class SwitchDemo
 {

@@ -1,4 +1,4 @@
-// wap in java to find the largest of three numbers;
+// wap in java to accept the height of a person in centimeter and categories the person according to their height.
 
 import java.util.*;
 
@@ -6,10 +6,12 @@ class large
 {
 public static void main(String[] args)
 {
-int a,b,c;
-System.out.peinrln("enetr three values");
 
-if(<150)
+System.out.println("enetr height of the person");
+scanner sc = new Scanner(system.in);
+int ht= sc.nextInt();
+
+if(ht<150)
 {
 System.out.println("ht of the person is small");
 }

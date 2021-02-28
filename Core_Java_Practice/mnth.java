@@ -1,4 +1,4 @@
-//wap in java to print thr month name which is on number 8;
+//wap in java to print the month name which is on number 8;
 
 class mnth
 {
