@@ -358,6 +358,159 @@ write a program of java StringBuffer - capacity() method.
 Program 112 Practice StringBuffer Program(StringBufferExample7.java)
 write a program of java StringBuffer - ensureCapacity() method.
 
+Program 113 Practice Factorial Program(NumberFactorial.java)
+write a program of java to accept a number and print the factorial of that number.
+
+Program 114 Practice Largest of three number Program(LargestOfThreeNumbers.java)
+write a program of java to find the largest of three numbers.
+
+Program 115 Practice Sum of five numbers Program(FiveNumSumUseForLoop.java)
+write a program of java accept 5 numbers using for loop and print the sum of 5 no.
+
+Program 116 Practice Final Variable Program(FinalVariable.java)
+write a program of java - use of final variable.
+
+Program 117 Practice Downcasting Program(DowncastingWithoutInstanceOf.java)
+write a program of java downcasting without instance of operator.
+
+Program 118 Practice Dowcasting Program(DowncastingByInstanceOf.java)
+write a program of java downcasting by instanceOf operator.
+
+Program 119 Practice Display number Program(DisplayNumber.java)
+write a program of java to display the number.
+
+Program 120 Practice Covarient Return Type Program(CovrientReturnType.java)
+write a program of java - use of covarient return type.
+
+Program 121 Practice Java Program(CategoriesPersonAccToHeight.java)
+write a program of java to accept the height of a person in centimeter and categories the person according to their height.
+
+Program 122 Practice Calculation of Electricity Bill Program(CalculateElectricityBill.java)
+write a program of java to calculate and print the electricity bill of a given customer.
+
+Program 123 Practice Use of Break Program(SearchArrayElement.java)
+write a program of java to search an element in a matrix.
+
+Program 124 Practice Program(AcceptNumandPrintuseDowhileLoop.java)
+write a program of java to accept a number and print from 1 to the number entered by the user using do while loop.
+
+Program 125 Practice Program(AcceptGradePrintDescription.java)
+write a program of java to accept  grade and declare a equivalent description;- Greade description -- E-Excellent,V-very good,G-good,A-average,F-fail.
+
+Program 126 Practice Abstract class and Abstract method Program(AbstractClassandMethod.java)
+write a program of java - Abstract class and abstract method.
+
+Program 127 Practice Program(ReadMonthNumDisplyName.java)
+write a program of java to read any month number in integer and display the month name in the word.
+
+Program 128 Practice Program(ReadMonthNumDisplayDays.java)
+write a program of java to read any month number in integer and display the number of days for this month.
+
+Program 129 Practice Program(ReadDigitDisplayword.java)
+write a program of java to read any digit, display in the word.
+
+Program 130 Practice Program(ReadDayNumDisplayDayNameWord.java)
+write a program of java to read any day number in integer and display day name in the word.
+
+Program 131 Practice For Loop Program(PrintNumUseForLoop.java)
+write a program of java to print number from 0 to 10 using for loop.
+
+Program 132 Practice do while Loop Program(PrintNumUseDoWhile.java)
+write a program of java to print number from 0 to 10 using do while loop.
+
+Program 133 Practice Program(PrintMonthName.java)
+write a program of java to print the month name which is on number 8.
+
+Program 134 Practice Fibonacci Series Program(PrintFibonacciSeries.java)
+write a program of java to display the first n term of fibonacci series.
+
+Program 135 Practice Static Binding Program(TestStaticBinding.java)
+write a program of java for static binding.
+
+Program 136 Practice Inheritance Program(TestInheritance1.java)
+write a program of java for inheritance.
+
+Program 137 Practice Inheritance Program(TestInheritance.java)
+write a program of java for inheritance - use overrriding.
+
+Program 138 Practice Immutable class Program(TestImmutableClass.java)
+write a program of java to create Immutable class..
+
+Program 139 Practice Program(TestFinalVariable.java)
+write a program of java using final variable.
+
+Program 140 Practice Dynamic Binding Program(TestDynamicBinding.java)
+write a program of java for dynamic binding.
+
+Program 141 Practice Access Modifiers Program(TestDefaultAccessModifiers.java)
+write a program of java for default access modifiers.
+
+Program 142 Practice Program(TestClonable.java)
+write a program of java for cloneable.
+
+Program 143 Practice Program(TestCharacterAlphaDigitSymbol.java)
+write a program of java to check whether a character is an alphabate,digit or a special symbol.
+
+Program 144 Practice Program(TestCallbyValue.java)
+write a program of java - call by value
+
+Program 145 Practice Program(TestCallbyReference.java)
+write a program of java - call by reference.
+
+Program 146 Practice Program(TestAbstractAccount.java)
+write a program of java on Abstract class and Method.
+
+Program 147 Practice Program(StudentCalculation.java)
+write a program of java to read roll no, name and marks of three subjects and calculate the total,percentage and division.
+
+Program 148 Practice Program(RuntimeFreeandTotalMemoryTest.java)
+write a program of java Runtime freMemory() and totalMemory() method.
+
+Program 149 Practice Array Program(TestJaggedArray.java)
+write a program of java to illustrate the jagged array.
+
+Program 150 Practice Program(TestInterfaceStatic.java)
+write a program in java of Static Method in Interface.
+
+Program 151 Practice Program(TestInterfaceDefault.java)
+write a program in java of Default Method in Interface.
+
+Program 152 Practice Interface Program(TestInterface4.java)
+write a program in java interface extends another interface.
+
+Program 153 Practice Interface Program(TestInterface2.java)
+write a program in java for Interface.
+
+Program 154 Practice Interface Program(TestInterface1.java)
+write a program in java for Interface.
+
+Program 155 Practice Interface Program(TestInterface.java)
+write a Simple program in java for Interface.
+
+Program 156 Practice InstanceOf operator Program(TestInstanceofOperator4.java)
+write a program in java of downcasting with instanceof operator.
+
+Program 157 Practice InstanceOf operator Program(TestInstanceofOperator3.java)
+write a program in java of downcasting with instanceof operator.
+
+Program 158 Practice InstanceOf operator Program(TestInstanceofOPerator2.java)
+write a program instanceof in java with a variable that have null value.
+
+Program 159 Practice InstanceOf operator Program(TestInstanceofOperator1.java)
+write a program instanceof operator in java.
+
+Program 160 Practice initializer blockProgram( TestInstanceInitializer.java)
+write a program of instance initializer block in java.
+
+Program 161 Practice Inheritance Program(TestInheritance04.java)
+write a program of single level inheritance in java.
+
+Program 162 Practice Program(TestInheritance03.java)
+write a program for method overloading and overriding.
+
+Program 163 Practice Program(TestInheritance02.java)
+write a program of multilevel inheritance in java.
+
 
 Adv_Java_Practice
 

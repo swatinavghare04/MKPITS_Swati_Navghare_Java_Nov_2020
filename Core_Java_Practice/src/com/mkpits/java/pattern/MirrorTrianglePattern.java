@@ -1,4 +1,12 @@
-//Mirror right Triangle star Program
+/* Write a program for Mirror right Triangle star Pattern-
+
+ *
+ **
+ ***
+ ****
+ *****
+ ******
+ */
 
 public class MirrorTrianglePattern
 {

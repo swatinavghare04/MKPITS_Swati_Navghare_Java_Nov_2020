@@ -1,23 +1,19 @@
 // Java interface Example
 
-interface Shape
+interface printable
 {
- void draw1();
+ void print();
 }
-class Circle implements Shape
+class A6 implements printable
 {
-public void draw1()
+public void print()
 {
- System.out.println("draw circle");
+ System.out.println("Hello");
 }
-}
-
-class TestInterface
-{
   public static void main(String[] args)
   {
-   Circle c = new Circle();
-   c.draw1();
+   A6 obj = new A6();
+   obj.print();
   }
 
 }

@@ -1,6 +1,13 @@
-// left triangle star patter
+/* WAP to print the left triangle star pattern which is given below-
 
-class LeftTriangleStar{
+ *
+ * *
+ * * *
+ * * * *
+ * * * * *
+ */
+
+class LeftTriangleStarPattern{
 
  public static void main(String[] args){
 
