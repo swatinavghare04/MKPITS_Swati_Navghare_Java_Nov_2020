@@ -637,24 +637,286 @@ write a program in Java to clone the array.
 Program 205 Practice Program(TestCallRun.java)
 write a program in java to run a thread by directly calling the run method.
 
-Program 206 Practice Program(TestSublassDeclareSubclassException.java)
-write a program in java in case subclass overriden method declare subclass exception.
+Program 206 Practice Program(TestThisKeywordForCallingParameterized.java)
+write a program in java called parameterized constructor throgh default constructor;--using this keyword.
 
-Program 207 Practice Program(TestSubclassDeclareSameException.java)
-write a program in java in case subclass overriden method declare same exception.
+Program 207 Practice Program(TestThisKeywordForCallingDefault.java)
+write a program in java called default constructor throgh parameterized constructor;--using this keyword.
 
-Program 208 Practice Program(TestSubclassDeclareParentException.java)
-write a program in java in case subclass overriden method declare parent exception.
+Program 208 Practice Program(TestShutdownHook2.java)
+write a program in java of shutdown hook by annonymous class.
 
-Program 209 Practice Program(TestSubclassDeclareNoException.java)
-write a program in java in case subclass overriden method declares no exception.
+Program 209 Practice Program(TestShutdownHook1.java)
+write another program in java for Shutdown Hook.
 
 Program 210 Practice Program(TestStringMethodUseForLoop.java)
-write a program in java string method.
+write a program in java for string method using for loop.
 
 Program 211 Practice Program(TestStaticNestedStaticMethod.java)
 write a program in java static nested class with static method.
 
+Program 212 Practice Program(TestReturnArray.java)
+write a program in java to return an array from the method.
+
+Program 213 Practice Program(TestPrivateAccessModofiers.java)
+write a program in java for private access modifiers.
+
+Program 214 Practice Program(TestParameterizedConstructor.java)
+write a program in java for parameterized constructor.
+
+Program 215 Practice Program(TestOverloadingOverriding.java)
+write a program in java for method overriding and overloading.
+
+Program 216 Practice Program(TestGarbageCollection01.java)
+write a program in java for garbage collection.
+
+Program 217 Practice Program(TestGarbageCollection.java)
+write another program in java for garbage collection.
+
+Program 218 Practice Program(TestEncapsulation2.java)
+write a program in java for encapsulation.
+
+Program 219 Practice Program(TestEncapsulation1.java)
+write another program in java for encapsulation.
+
+Program 220 Practice Program(TestEncapsulation.java)
+write a program in java to test the encapsulatedclass.
+
+Program 221 Practice Program(TestCloneArray.java)
+write a program in java to clone the array.
+
+Program 222 Practice Program(TestArray1.java)
+write a simple program in java for array.
+
+Program 223 Practice Program(TestSandGlass.java)
+write a program in java to create Sandglass star pattern which is given below-
+
+* * * * *
+ * * * *
+  * * *
+   * *
+    *
+    *
+   * *
+  * * *
+ * * * *
+* * * * *
+
+Program 224 Practice Program(NumberZerosOnesPattern.java)
+write a program in java for numeric pattern - Zeros/ ones Pattern Programs which is given below-
+
+   1
+   10
+   101
+   1010
+   10101
+
+Program 225 Practice Program(NumberRightTrianglePattern.java)
+write a program in java for numeric pattern - Right Triangle which is given below-
+
+1
+2 1
+3 2 1
+4 3 2 1
+5 4 3 2 1
+
+Program 226 Practice Program(NumberPattern3.java)
+write a program in java for numeric pattern - Simple number programwhich is given below-
+
+1
+2 2
+3 3 3
+4 4 4 4
+5 5 5 5 5
+
+Program 227 Practice Program(NumberPattern2.java)
+write a program in java for numeric pattern - Simple number program which is given below-
+
+1
+2 3
+4 5 6
+7 8 9 10
+11 12 13 14 15
+
+Program 228 Practice Program(NumberPascalTriangle.java)
+write a program  WAP in java for numeric pattern - pascal triangle pattern which is given below-
+
+             1
+           1   1
+         1   2   1
+       1   3   3   1
+     1   4   6   4   1  
+
+Program 229 Practice Program(NumberDiamondPattern.java)
+write a program in java for numeric pattern -  Diamond Numeric Pattern which is given below-
+
+   1 2 3 4 5
+    2 3 4 5
+     3 4 5
+      4 5
+       5
+      4 5
+     3 4 5
+    2 3 4 5
+   1 2 3 4 5   
+
+Program 230 Practice Program(NumberDiamond1Pattern.java)
+write a program in java for numeric pattern - Diamond Pattern which is given below-
+
+   1
+  212
+ 32123
+4321234
+ 32123
+  212
+   1
+
+Program 231 Practice Program(NumberDescendingOrderPattern.java)
+write a program in java for numeric pattern - Descending Orderwhich is given below-
+
+   5
+   5 4
+   5 4 3
+   5 4 3 2
+   5 4 3 2 1 
+ 
+Program 232 Practice Program(NumberBinaryPattern.java)
+write a program in java for numeric pattern - Binary Number Pattern which is given below-
+
+10101
+01010
+10101
+01010
+10101 
+
+Program 233 Practice Program(DiamondStarPattern.java)
+write a program in java for diamond star pattern which is given below-
+
+    *
+   ***
+  *****
+ *******
+*********
+ *******
+  *****
+   ***
+    *
+
+Program 234 Practice Program(AplhabetKShapePattern.java)
+write a program in java for Alphabet/ Character Patterns - K Shape Character Pattern Program which is given below-
+
+   A B C D E F
+   A B C D E
+   A B C D
+   A B C
+   A B
+   A
+   A
+   A B
+   A B C
+   A B C D
+   A B C D E
+   A B C D E F
+
+Program 235 Practice Program(AlphabetTrianglePattern.java)
+write a program in java for Alphabet/ Character Patterns - Triangle Character Pattern which is given below
+
+        A
+       A B
+      A B C
+     A B C D
+    A B C D E
+   A B C D E F
+
+Program 236 Practice Program(AlphabetRightTrianglePattern.java)
+write a program in java for Alphabet/ Character Patterns -  Right Alphabetic triangle which is given below-
+
+   A 
+   A B 
+   A B C 
+   A B C D 
+   A B C D E 
+   A B C D E F  
+
+Program 237 Practice Program(AlphabetPattern.java)
+write a program in java for Alphabet/ Character Patterns program which is given below-
+
+A 
+B B 
+C C C 
+D D D D 
+E E E E E 
+F F F F F F 
+
+Program 238 Practice Program(AlphabetDiamondPattern.java)
+write a program in java for Alphabet/ Character Patterns - Diamond Pattern which is given below-
+
+        A
+       B B
+      C   C
+     D     D
+    E       E
+   F         F
+    E       E
+     D     D
+      C   C
+       B B
+        A
+
+Program 239 Practice Program(AlphaAPattern.java)
+write a program in java for alphabate A pattern which is given below-
+
+**
+* *
+***
+* *
+* *
+* *
+
+Program 240 Practice Program(TestMultidimensionalArray.java)
+write a program in java to illustrate the use of multidimensional array.
+
+Program 241 Practice Program(TestMatrixMultiplication.java)
+write a program in java to multiply two matrices.
+
+Program 242 Practice Program(TestArrayException.java)
+write a program in java to demonstrate the case of ArrayIndexOutOfBoundsException in a Java Array. 
+
+Program 243 Practice Program(TestArrayCopyDemo .java)
+write a program in java to copy a source array into a destination array in Java.
+
+Program 244 Practice Program(TestArray5.java)
+write a program in java to get the class name of array in Java.
+ 
+Program 245 Practice Program(TestArray4.java)
+write a program in java to illustrate how to declare, instantiate, initialize and traverse the Java array.
+
+Program 246 Practice Program(Testarray3.java)
+write a program in java passing array to method.
+
+Program 247 Practice Program(Testarray2.java)
+write a program in java to print the array elements using for-each loop.
+
+Program 248 Practice Program(Testarray.java)
+write a simple program in java for array.
+
+Program 249 Practice Program(TestAnonymousArray.java)
+write a program in java to demonstrate the way of passing an anonymous array.
+
+Program 250 Practice Program(TestAdditionof2Matrix.java)
+write a program in java to demonstrate the addition of two matrices in Java.
+
+Program 251 Practice Program(ArrayDemo.java)
+write a simple program in java for array and print.
+
+Program 252 Practice Program(EmpAggregation .java)
+write a program in java to understand aggregation.
+
+Program 253 Practice Program(AggregationCircle.java)
+write a program in java for aggregation.
+
+Program 254 Practice Program(PrivateConstructor.java)
+write a program in java - role of private constructor.
 
 Adv_Java_Practice
 

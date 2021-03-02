@@ -1,10 +1,12 @@
-/* WAP for numeric pattern - Right Triangle.
+/* WAP in java for numeric pattern - Right Triangle which is given below-
 
 1
 2 1
 3 2 1
 4 3 2 1
-5 4 3 2 1   */
+5 4 3 2 1
+
+*/
 
 public class NumberRightTrianglePattern{
 

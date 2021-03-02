@@ -1,10 +1,12 @@
-/* WAP for numeric pattern - Descending Order.
+/* WAP in java for numeric pattern - Descending Orderwhich is given below-
 
    5
    5 4
    5 4 3
    5 4 3 2
-   5 4 3 2 1    */
+   5 4 3 2 1
+
+ */
 
    public class NumberDescendingOrderPattern{
 

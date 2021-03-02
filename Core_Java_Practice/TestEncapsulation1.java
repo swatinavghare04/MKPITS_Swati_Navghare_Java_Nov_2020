@@ -1,3 +1,5 @@
+//WAP in java for encapsulation.
+
 package  com.mk1;
 class TestEncapsulation1
 {

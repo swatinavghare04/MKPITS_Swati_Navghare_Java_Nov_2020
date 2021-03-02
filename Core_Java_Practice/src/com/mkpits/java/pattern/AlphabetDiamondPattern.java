@@ -1,4 +1,4 @@
-/* WAp for Alphabet/ Character Patterns - Diamond Pattern
+/* WAp in java for Alphabet/ Character Patterns - Diamond Pattern which is given below-
 
         A
        B B
@@ -10,7 +10,9 @@
      D     D
       C   C
        B B
-        A    */
+        A
+
+  */
 
    import java.util.*;
     public class AlphabetDiamondPattern{

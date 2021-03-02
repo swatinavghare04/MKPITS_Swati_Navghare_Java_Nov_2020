@@ -1,4 +1,4 @@
-// array program
+// Simple array program
 
 class TestArray1
 {

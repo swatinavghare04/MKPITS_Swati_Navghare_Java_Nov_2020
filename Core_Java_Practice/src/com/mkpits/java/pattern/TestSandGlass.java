@@ -1,4 +1,17 @@
-// WAP to create Sandglassstar pattern.
+/* WAP in java to create Sandglass star pattern which is given below-
+
+* * * * *
+ * * * *
+  * * *
+   * *
+    *
+    *
+   * *
+  * * *
+ * * * *
+* * * * *
+
+*/
 
 class TestSandGlass{
 
@@ -13,7 +26,7 @@ class TestSandGlass{
 
    for(int k=5;k>=i;k--){
 
-   System.out.print("*");
+   System.out.print("* ");
    }
 
    System.out.println();
@@ -28,7 +41,7 @@ class TestSandGlass{
 
 	 for(int p=1;p<=i;p++){
 
-		 System.out.print("*");
+		 System.out.print("* ");
 	 }
 
 	 System.out.println();

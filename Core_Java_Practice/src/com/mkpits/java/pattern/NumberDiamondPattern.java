@@ -1,4 +1,4 @@
-/* WAP for numeric pattern -  Diamond Numeric Pattern
+/* WAP in java for numeric pattern -  Diamond Numeric Pattern which is given below-
 
    1 2 3 4 5
     2 3 4 5
@@ -8,7 +8,9 @@
       4 5
      3 4 5
     2 3 4 5
-   1 2 3 4 5   */
+   1 2 3 4 5
+
+ */
 
    public class NumberDiamondPattern{
 

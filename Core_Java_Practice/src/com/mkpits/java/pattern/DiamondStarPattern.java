@@ -1,4 +1,16 @@
-// WAP for diamond star pattern
+/* WAP in java for diamond star pattern which is given below-
+
+    *
+   ***
+  *****
+ *******
+*********
+ *******
+  *****
+   ***
+    *
+
+ */
 
 import java.util.Scanner;
 public class DiamondStarPattern

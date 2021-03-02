@@ -1,4 +1,13 @@
-// WAP for alphabate A pattern
+/* WAP in java for alphabate A pattern which is given below-
+
+**
+* *
+***
+* *
+* *
+* *
+
+*/
 
 import java.util.*;
 

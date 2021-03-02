@@ -1,4 +1,4 @@
-/* WAP for numeric pattern - Zeros/ ones Pattern Programs.
+/* WAP in java for numeric pattern - Zeros/ ones Pattern Programs which is given below-
 
    1
    10

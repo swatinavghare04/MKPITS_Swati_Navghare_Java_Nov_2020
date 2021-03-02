@@ -1,10 +1,12 @@
-/* WAP for numeric pattern - Binary Number Pattern.
+/* WAP in java for numeric pattern - Binary Number Pattern which is given below-
 
 10101
 01010
 10101
 01010
-10101   */
+10101
+
+*/
 
 public class NumberBinaryPattern{
 

@@ -1,10 +1,12 @@
-/* WAP for pascal triangle pattern;
+/* WAP in java for pascal triangle pattern which is given below-
 
              1
            1   1
          1   2   1
        1   3   3   1
-     1   4   6   4   1      */
+     1   4   6   4   1
+
+ */
 
 
 public class NumberPascalTriangle{
