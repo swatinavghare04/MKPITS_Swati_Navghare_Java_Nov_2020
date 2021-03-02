@@ -1,7 +1,7 @@
 // wap in java to display the first n term of fibonacci series;
 
 import java.util.*;
-class fibonacci
+class PrintFibonacciSeries
 {
   public static void main(String[] args)
   {

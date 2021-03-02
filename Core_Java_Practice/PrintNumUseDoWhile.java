@@ -1,6 +1,6 @@
-// wap in java to print number from 0 to 10 using do while loop;
+// write a program in java to print number from 0 to 10 using do while loop;
 
-class dw{
+class PrintNumUseDoWhile{
 public static void main(String[] args)
 {
 int i=0;

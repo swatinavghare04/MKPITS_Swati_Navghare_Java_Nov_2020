@@ -1,4 +1,5 @@
-// simple example of java multi-catch block.
+/* Example of java multi-catch block - try block contain two exception but at a time only one exception occures
+and corresponding catch block n invoked*/
 
 public class MultiCatchBlock3{
 

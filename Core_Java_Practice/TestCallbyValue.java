@@ -1,6 +1,6 @@
 // call by value
 
-class operation
+class TestCallbyValue
 {
  int data = 50;
  void change(int data)
@@ -10,7 +10,7 @@ class operation
  }
  public static void main(String[] args)
  {
-  operation op = new operation();
+  TestCallbyValue op = new TestCallbyValue();
   System.out.println("value before change = " + op.data);
   op.change(500);
   System.out.println("value after change = " + op.data);

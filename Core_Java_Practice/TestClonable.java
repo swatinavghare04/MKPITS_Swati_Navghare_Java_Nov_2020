@@ -1,11 +1,11 @@
-// example on cloneable
+// WAP in java on cloneable
 
 
-class emp implements Cloneable
+class TestClonable implements Cloneable
 {
  int empno;
  String empname;
- emp(int empno, String empname)
+ TestClonable(int empno, String empname)
  {
   this.empno =empno;
   this.empname = empname;
@@ -18,8 +18,8 @@ class emp implements Cloneable
   {
    try
    {
-    emp e1 = new emp(123,"Sonu");
-    emp e2 = (emp)e1.clone();
+    TestClonable e1 = new TestClonable(123,"Sonu");
+    TestClonable e2 = (TestClonable)e1.clone();
 
     System.out.println(e1.empno+" " + e1.empname);
      System.out.println(e2.empno+" " + e2.empname);

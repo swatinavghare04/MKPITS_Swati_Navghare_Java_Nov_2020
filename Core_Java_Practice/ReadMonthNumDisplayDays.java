@@ -1,7 +1,7 @@
 // wap in java to read any month number in integer and display the number of days for this month;
 
 import java.util.*;
-class monthdaynum
+class ReadMonthNumDisplayDays
 {
    public static void main(String[] args)
    {

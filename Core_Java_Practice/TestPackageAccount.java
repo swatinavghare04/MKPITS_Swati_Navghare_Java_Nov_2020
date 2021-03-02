@@ -1,5 +1,5 @@
 package bank;
-public class Account
+public class TestPackageAccount
 {
  int bal = 1000; // default access modifier
  public String deposit(int amt)

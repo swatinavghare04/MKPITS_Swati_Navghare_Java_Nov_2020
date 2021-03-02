@@ -1,4 +1,4 @@
-// example to enter employee data and use of parameterised constructor.
+// WAP in java to enter employee data and use of parameterised constructor.
 
 import java.util.*;
 class employee
@@ -33,7 +33,7 @@ void showemp()
 }
 }
 
-class empdet
+class UseofParameterisedConstructor
 {
   public static void main(String[] args)
   {

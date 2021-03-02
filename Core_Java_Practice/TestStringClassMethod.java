@@ -1,10 +1,10 @@
 // java string class method
 
-class operation2
+class TestStringClassMethod
 {
 public static void main(String[] args)
 {
- String s3 = new String("example");
+ TestStringClassMethod s3 = new TestStringClassMethod("example");
  char ch = s3.charAt(2);
  System.out.println(ch);
 }

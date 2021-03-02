@@ -7,7 +7,7 @@ class Animal
 		System.out.println("Animal is eating...");
 	}
 }
-class Dog1 extends Animal
+class TestDynamicBinding extends Animal
 {
  void eat()
  {
@@ -15,7 +15,7 @@ class Dog1 extends Animal
  }
  public static void main(String[] args)
  {
-  Animal d1 = new Dog1();
+  Animal d1 = new TestDynamicBinding();
   d1.eat();
  }
 }

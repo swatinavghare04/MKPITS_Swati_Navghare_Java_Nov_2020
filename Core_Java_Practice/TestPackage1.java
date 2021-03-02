@@ -1,7 +1,7 @@
 package mypack;
 import pack.*;
 
-class B12 extends A1
+class TestPackage1 extends A1
 {
  public static void main(String[] args)
 { 

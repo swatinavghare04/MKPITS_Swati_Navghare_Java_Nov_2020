@@ -1,7 +1,7 @@
 // wap in java to read any month number in integer and display the month name in the word;
 
 import java.util.*;
-class monthnum
+class ReadMonthNumDisplyName
 {
    public static void main(String[] args)
    {

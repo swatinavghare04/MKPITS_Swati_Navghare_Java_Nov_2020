@@ -1,3 +1,4 @@
+// Write a java program for package
 package pack;
 public class A
 {

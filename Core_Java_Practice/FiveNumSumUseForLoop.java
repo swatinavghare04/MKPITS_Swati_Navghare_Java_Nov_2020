@@ -1,7 +1,7 @@
 //wapin java to accept 5 numbers using for loop and print the sum of 5 no;
 
 import java.util.*;
-class forsum
+class FiveNumSumUseForLoop
 {
 	public static void main(String[] args)
 	{

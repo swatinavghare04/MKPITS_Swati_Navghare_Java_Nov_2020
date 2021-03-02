@@ -1,11 +1,11 @@
 // Example to create Immutable class.
 
-public final class Employee{
+public final class TestImmutableClass{
 
   public static void main(String[] args){
    final String pancardNumber;
 
-   public Employee(String pancardNumber){
+   public TestImmutableClass(String pancardNumber){
 
      this.pancardNumber = pancardNumber;
    }

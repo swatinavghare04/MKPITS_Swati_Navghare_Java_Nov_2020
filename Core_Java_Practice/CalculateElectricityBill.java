@@ -1,7 +1,7 @@
 // wap in java to calculate and print the electricity bill of a given customer;
 
 import java.util.*;
-class elect
+class CalculateElectricityBill
 {
   public static void main(String[] args)
    {

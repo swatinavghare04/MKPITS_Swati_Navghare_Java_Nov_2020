@@ -1,6 +1,6 @@
 // array program
 
-class Testarray1
+class TestArray1
 {
  public static void main(String[] args)
  {

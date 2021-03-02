@@ -37,7 +37,7 @@ void setRadius()
    System.out.println("area = " + pi*radius*radius);
  }
 }
-class inherit
+class TestInheritance1
 {
   public static void main(String[] args)
   {

@@ -1,6 +1,6 @@
 // wap in java to print number from 0 to 10 using for loop;
 
-class forlp{
+class PrintNumUseForLoop{
 public static void main(String[] args)
 {
 int i;

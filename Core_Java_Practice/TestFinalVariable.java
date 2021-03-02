@@ -1,6 +1,6 @@
-// final variable - final variable
+// write a java program of using final variable.
 
-class bike
+class TestFinalVariable
 {
  final int speedlimit;
  bike()

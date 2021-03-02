@@ -1,6 +1,6 @@
 package p2;
 
-public class Ab
+public class TestPackage
 {
  int a = 20;
  void msg()

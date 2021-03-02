@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-class large
+class LargestOfThreeNumbers
 {
 public static void main(String[] args)
 {

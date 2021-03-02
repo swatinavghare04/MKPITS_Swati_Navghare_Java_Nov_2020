@@ -5,7 +5,7 @@ abstract class Bike
 	abstract void run();
 
 }
-class Honda4 extends Bike
+class AbstractClassandMethod extends Bike
 {
  void run()
  {
@@ -13,7 +13,7 @@ class Honda4 extends Bike
  }
  public static void main(String[] args)
  {
- Bike B1 = new Honda4();
+ Bike B1 = new AbstractClassandMethod();
   B1.run();
  }
 }

@@ -511,6 +511,72 @@ write a program for method overloading and overriding.
 Program 163 Practice Program(TestInheritance02.java)
 write a program of multilevel inheritance in java.
 
+Program 164 Practice clone() Method Program(CloneMethod.java)
+write a program of clone() method.
+
+Program 165 Practice Program(PrintNumOnetoTenUseWhile.java)
+write a program in java to print no from 1 to 10 using while loop.
+
+Program 166 Practice Program(CheckAlphabetVowelConsonant.java)
+write a program in java to chck whether an alphabate is a vowel or consonant.
+
+Program 163 Practice Program(CalculateProfitLoss.java)
+write a program in java to calculate profit and loss on a transaction.
+
+Program 163 Practice Program(AcceptnumPrintTableUsefor.java)
+write a program in java to accept a number and print the table of that number, using for loop.
+
+Program 163 Practice Program(AcceptNumPrintTable.java)
+write a program of in java to accept a number and print the tabl of that number, using while loop.
+
+Program 163 Practice Program(AcceptNumandPrintUSeWhile.java)
+write a program in java to accept a number and print from 1 to the number entered by the user using while loop.
+
+Program 163 Practice Program(AcceptMonthDisplayDaysUseSwitch.java)
+write a program in java to accept month and display the days in that month using switch.
+
+Program 163 Practice Program(DisplayAllPrimeNum.java)
+write a program in java to display all the prime number between 1 o 100.
+
+Program 163 Practice Program(DeclareStringtoStoreValue.java)
+write a program in java to declare String variable to store some string value..
+
+Program 163 Practice Program(DeclareDatatypeShort.java)
+write a program in java to declare short datatype variable.
+
+Program 163 Practice Program(DeclareDatatypeInt.java)
+write a program in java to declare int datatype variable.
+
+Program 163 Practice Program(DeclareDatatypeDouble.java)
+write a program in java  to declare double datatype variable.
+
+Program 163 Practice Program(DeclareDatatypeChar.java)
+write a program in java to declare char datatype variable.
+
+Program 163 Practice Program(DeclareDatatypeBoolean.java)
+write a program in java to declare boolean datatype variable.
+
+Program 163 Practice Program(DeclaedDatatypeFloat.java)
+write a program in java to declare float datatype variable.
+
+Program 163 Practice Program(PrintNumUseForLoop.java)
+write a program in java to print number from 0 to 10 using for loop.
+
+Program 163 Practice Program(PrintNumUseDoWhile.java)
+write a program in java to print number from 0 to 10 using do while loop
+
+Program 163 Practice Program(PrintNumTentoOneUseWhile.java)
+write a program in java to print no from 10 to 1 using while loop.
+
+Program 163 Practice Program(OverloadingWithtypePromotion1.java)
+write a program in java method overloading with type promotion if matching found.
+
+Program 163 Practice Program(PrintNumOnetoUserEnteredusedowhile.java)
+write a program in java to accept a number and print from 1 to the number entered by the user using do while loop, then ask to user whether to accept another number or not.
+
+Program 163 Practice Program(OverloadingWithtypePromotion.java)
+write a program in java method overloading with type promotion.
+
 
 Adv_Java_Practice
 

@@ -1,6 +1,6 @@
-// search element in an array;
+// Write a java program to search element in an array;
 
-class BreakwithLabelDemo
+class SearchArrayElement
 {
 public static void main(String[] args)
 {

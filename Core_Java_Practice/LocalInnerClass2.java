@@ -1,6 +1,6 @@
 // WAP for local inner class with local variable.
 
-public class LocalInner2{
+public class LocalInnerClass2{
 
   private int data = 30;
 

@@ -1,10 +1,10 @@
 // string method example
 
-class operation3
+class TestStringMethodUseForLooptoPrint
 {
 public static void main(String[] args)
 {
- String s3 = new String("example");
+ TestStringMethodUseForLooptoPrint s3 = new TestStringMethodUseForLooptoPrint("example");
  int ch = s3.length();
  for(int i = 0;i<ch;i++)
  {

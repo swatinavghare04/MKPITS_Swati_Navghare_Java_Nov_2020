@@ -3,16 +3,16 @@
 
 class Animal
 {}
-class Dog4 extends Animal
+class DowncastingWithoutInstanceOf extends Animal
 {
  static void method(Animal a)
  {
-	  Dog4 d =(Dog4)a;// downcasting
+     DowncastingWithoutInstanceOf d =(DowncastingWithoutInstanceOf)a;// downcasting
 	  System.out.println("downcasting is performed");
  }
  public static void main(String[] args)
  {
-	 Animal a = new Dog4();
-	 Dog4.method(a);
+	 Animal a = new DowncastingWithoutInstanceOf();
+     DowncastingWithoutInstanceOf.method(a);
  }
 }

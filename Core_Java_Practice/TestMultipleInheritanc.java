@@ -8,7 +8,7 @@ interface showable
 {
  void show();
 }
-class A7 implements printable,showable
+class TestMultipleInheritance implements printable,showable
 {
  public void print()
  {

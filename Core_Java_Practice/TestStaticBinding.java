@@ -1,6 +1,6 @@
 // example of static binding
 
-class Dog
+class TestStaticBinding
 {
  private void eat()
  {
@@ -8,7 +8,7 @@ class Dog
  }
  public static void main(String[] args)
  {
-  Dog d1 = new Dog();
+  TestStaticBinding d1 = new TestStaticBinding();
   d1.eat();
  }
 } 

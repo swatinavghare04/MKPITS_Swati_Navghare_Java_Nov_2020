@@ -1,7 +1,7 @@
 //wap in java to accept a number and print the factorial of that number;
 
 import java.util.*;
-class factorial
+class NumberFactorial
 {
 	public static void main(String[] args)
 	{

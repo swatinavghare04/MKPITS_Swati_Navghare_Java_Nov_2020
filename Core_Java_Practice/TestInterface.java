@@ -4,7 +4,7 @@ interface printable
 {
  void print();
 }
-class A6 implements printable
+class TestInterface implements printable
 {
 public void print()
 {

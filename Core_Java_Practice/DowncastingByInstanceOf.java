@@ -1,21 +1,21 @@
 
-// downcasting by instance of operator
+// downcasting by instanceOf operator
 
 class Animal
 {}
-class Dog3 extends Animal
+class DowncastingByInstanceOf extends Animal
 {
  static void method(Animal a)
  {
-  if(a instanceof Dog3)
+  if(a instanceof DowncastingByInstanceOf)
   {
-	  Dog3 d =(Dog3)a;// downcasting
+      DowncastingByInstanceOf d =(DowncastingByInstanceOf)a;// downcasting
 	  System.out.println("downcasting is performed");
   }
  }
  public static void main(String[] args)
  {
-	 Animal a = new Dog3();
-	 Dog3.method(a);
+	 Animal a = new DowncastingByInstanceOf();
+     DowncastingByInstanceOf.method(a);
  }
 }

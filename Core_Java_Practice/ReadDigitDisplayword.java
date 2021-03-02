@@ -1,7 +1,7 @@
-// wap in java to read any digit, display in the word;
+// write a program in java to read any digit, display in the word;
 
 import java.util.*;
-class digitword
+class ReadDigitDisplayword
 {
    public static void main(String[] args)
    {

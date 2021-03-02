@@ -1,6 +1,6 @@
 // Java Runtime freMemory() and totalMemory() method.
 
-public class MemoryTest{
+public class RuntimeFreeandTotalMemoryTest{
 
   public static void main(String[] args){
 

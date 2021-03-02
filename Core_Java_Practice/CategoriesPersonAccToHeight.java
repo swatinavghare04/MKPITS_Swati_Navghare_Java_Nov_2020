@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-class large
+class CategoriesPersonAccToHeight
 {
 public static void main(String[] args)
 {

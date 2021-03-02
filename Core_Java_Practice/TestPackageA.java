@@ -1,5 +1,5 @@
 package mypack;
-class B
+class TestPackageA
 {
  public static void main(String[] args)
 {

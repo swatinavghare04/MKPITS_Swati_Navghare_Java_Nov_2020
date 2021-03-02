@@ -1,10 +1,11 @@
 /* WAP to print the left triangle star pattern which is given below-
 
- *
- * *
- * * *
- * * * *
+         *
+       * *
+     * * *
+   * * * *
  * * * * *
+
  */
 
 class LeftTriangleStarPattern{

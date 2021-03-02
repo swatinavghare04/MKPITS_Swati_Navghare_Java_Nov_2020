@@ -1,7 +1,7 @@
 // wap in java to accept a number and print from 1 to the number entered by the user using do while loop;
 
 import java.util.*;
-class numwhlp
+class AcceptNumandPrintuseDowhileLoop
 {
 public static void main(String[] args)
 {

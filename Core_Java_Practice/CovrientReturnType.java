@@ -1,13 +1,13 @@
 // covarient return type
 
-class CovrientReturnType
+class A
 {
  A get()
  {
  return this;
  }
 }
-class B1 extends A
+class CovrientReturnType extends A
 {
  B1 get()
  {

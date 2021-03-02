@@ -38,7 +38,7 @@ class Current extends Account
 
 }
 
- class AccountTest01
+ class TestInheritance
  {
    public static void main(String[] args)
    {

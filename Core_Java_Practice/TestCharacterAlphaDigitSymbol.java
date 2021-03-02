@@ -1,7 +1,7 @@
 // wap in java to check whether a character is an alphabate,digit or a special symbol;
 
 import java.util.*;
-class asd
+class TestCharacterAlphaDigitSymbol
 {
 public static void main(String[] args)
 {

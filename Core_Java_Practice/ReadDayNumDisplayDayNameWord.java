@@ -1,7 +1,7 @@
-// wap in java to read any day number in integer and display day name in the word;
+// write a program in java to read any day number in integer and display day name in the word;
 
 import java.util.*;
-class daynum
+class ReadDayNumDisplayDayNameWord
 {
    public static void main(String[] args)
    {

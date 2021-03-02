@@ -1,7 +1,7 @@
-//wap in java to accept  grade nd declare a equivalent description;- Greade description -- E-Excellent,V-very good,G-good,A-average,F-fail;
+//wap in java to accept  grade and declare a equivalent description;- Greade description -- E-Excellent,V-very good,G-good,A-average,F-fail;
 
 import java.util.*;
-class grade
+class AcceptGradePrintDescription
 {
   public static void main(String[] args)
   {

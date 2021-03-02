@@ -1,4 +1,4 @@
-// use of break
+// WAP in java to search an element in a matrix .
 
 class BreakDemo
 {
