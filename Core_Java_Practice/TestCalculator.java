@@ -1,4 +1,4 @@
-// calculator
+// WAP in java to test calculator
 
 import java.util.*;
 class Calculator

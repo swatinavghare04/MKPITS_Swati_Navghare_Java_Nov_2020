@@ -1,4 +1,4 @@
-// role of private constructor
+// WAP in java - role of private constructor
 
 class A1
 {

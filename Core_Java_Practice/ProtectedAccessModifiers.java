@@ -1,4 +1,4 @@
-//use of protected in program;
+//WAP in java - use of protected access modifiers in program;
 
 class A
 {

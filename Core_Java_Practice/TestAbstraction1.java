@@ -1,4 +1,4 @@
-// exampe of abstraction
+// WAP in jav to understand simple example on abstraction.
 
 abstract class shape
 {

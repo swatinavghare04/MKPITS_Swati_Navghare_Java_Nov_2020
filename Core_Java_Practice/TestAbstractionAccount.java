@@ -1,4 +1,5 @@
-// Write a java programe on Abstract
+// write a program in java by using abstract class and abstract method.
+
 import java.util.*;
 
 abstract class Account

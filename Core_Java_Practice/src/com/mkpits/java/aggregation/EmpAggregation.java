@@ -1,6 +1,6 @@
 // WAP in java to understand aggregation.
 
-public class Address {  
+class Address {
     String city,state,country;  
       
     public Address(String city, String state, String country) {  

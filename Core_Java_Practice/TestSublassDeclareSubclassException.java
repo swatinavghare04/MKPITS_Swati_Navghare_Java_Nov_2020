@@ -1,4 +1,4 @@
-// Example in case subclass overriden method declare subclass exception.
+// WAP in java in case subclass overriden method declare subclass exception.
 
 import java.io.*;
 class Parent

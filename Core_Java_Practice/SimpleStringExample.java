@@ -1,3 +1,5 @@
+// WAP in java for simple use string
+
 public class SimpleStringExample
 {
 	public static void main(String[] args)

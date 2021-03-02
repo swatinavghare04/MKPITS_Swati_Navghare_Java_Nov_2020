@@ -1,4 +1,4 @@
-// Example of Inheritance in java
+// WAP in java - how to use Inheritance in java
 
 import java.util.*;
 

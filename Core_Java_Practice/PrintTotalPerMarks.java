@@ -1,4 +1,4 @@
-// program to print total, percent of the marks of three subjects.
+// WAP in java to print total, percent of the marks of three subjects.
 
 class PrintTotalPerMarks
 {

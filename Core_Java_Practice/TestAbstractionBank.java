@@ -1,4 +1,4 @@
-// Example of abstract class in java
+// write a program in java by using abstract class.
 
 abstract class Bank
 {
