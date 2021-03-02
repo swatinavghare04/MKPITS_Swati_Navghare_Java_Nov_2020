@@ -16,7 +16,7 @@ public class Address {
     String name;  
     Address address;  
       
-    public Emp(int id, String name,Address address) {  
+    public EmpAggregation(int id, String name,Address address) {
         this.id = id;  
         this.name = name;  
         this.address=address;  
@@ -29,10 +29,10 @@ public class Address {
       
     public static void main(String[] args) {  
     Address address1=new Address("gzb","UP","india");  
-    Address address2=new Address("gno","UP","india");  
-      
-    Emp e=new Emp(111,"varun",address1);  
-    Emp e2=new Emp(112,"arun",address2);  
+    Address address2=new Address("gno","UP","india");
+
+        EmpAggregation e=new EmpAggregation(111,"varun",address1);
+        EmpAggregation e2=new EmpAggregation(112,"arun",address2);
           
     e.display();  
     e2.display();  

@@ -463,8 +463,8 @@ write a program of java on Abstract class and Method.
 Program 147 Practice Program(StudentCalculation.java)
 write a program of java to read roll no, name and marks of three subjects and calculate the total,percentage and division.
 
-Program 148 Practice Program(RuntimeFreeandTotalMemoryTest.java)
-write a program of java Runtime freMemory() and totalMemory() method.
+Program 148 Practice Program(TestCalculator.java)
+write a program in java to test calculator.
 
 Program 149 Practice Array Program(TestJaggedArray.java)
 write a program of java to illustrate the jagged array.
@@ -520,62 +520,140 @@ write a program in java to print no from 1 to 10 using while loop.
 Program 166 Practice Program(CheckAlphabetVowelConsonant.java)
 write a program in java to chck whether an alphabate is a vowel or consonant.
 
-Program 163 Practice Program(CalculateProfitLoss.java)
+Program 167 Practice Program(CalculateProfitLoss.java)
 write a program in java to calculate profit and loss on a transaction.
 
-Program 163 Practice Program(AcceptnumPrintTableUsefor.java)
+Program 168 Practice Program(AcceptnumPrintTableUsefor.java)
 write a program in java to accept a number and print the table of that number, using for loop.
 
-Program 163 Practice Program(AcceptNumPrintTable.java)
+Program 169 Practice Program(AcceptNumPrintTable.java)
 write a program of in java to accept a number and print the tabl of that number, using while loop.
 
-Program 163 Practice Program(AcceptNumandPrintUSeWhile.java)
+Program 170 Practice Program(AcceptNumandPrintUSeWhile.java)
 write a program in java to accept a number and print from 1 to the number entered by the user using while loop.
 
-Program 163 Practice Program(AcceptMonthDisplayDaysUseSwitch.java)
+Program 171 Practice Program(AcceptMonthDisplayDaysUseSwitch.java)
 write a program in java to accept month and display the days in that month using switch.
 
-Program 163 Practice Program(DisplayAllPrimeNum.java)
+Program 172 Practice Program(DisplayAllPrimeNum.java)
 write a program in java to display all the prime number between 1 o 100.
 
-Program 163 Practice Program(DeclareStringtoStoreValue.java)
+Program 173 Practice Program(DeclareStringtoStoreValue.java)
 write a program in java to declare String variable to store some string value..
 
-Program 163 Practice Program(DeclareDatatypeShort.java)
+Program 174 Practice Program(DeclareDatatypeShort.java)
 write a program in java to declare short datatype variable.
 
-Program 163 Practice Program(DeclareDatatypeInt.java)
+Program 175 Practice Program(DeclareDatatypeInt.java)
 write a program in java to declare int datatype variable.
 
-Program 163 Practice Program(DeclareDatatypeDouble.java)
+Program 176 Practice Program(DeclareDatatypeDouble.java)
 write a program in java  to declare double datatype variable.
 
-Program 163 Practice Program(DeclareDatatypeChar.java)
+Program 177 Practice Program(DeclareDatatypeChar.java)
 write a program in java to declare char datatype variable.
 
-Program 163 Practice Program(DeclareDatatypeBoolean.java)
+Program 178 Practice Program(DeclareDatatypeBoolean.java)
 write a program in java to declare boolean datatype variable.
 
-Program 163 Practice Program(DeclaedDatatypeFloat.java)
+Program 179 Practice Program(DeclaedDatatypeFloat.java)
 write a program in java to declare float datatype variable.
 
-Program 163 Practice Program(PrintNumUseForLoop.java)
+Program 180 Practice Program(PrintNumUseForLoop.java)
 write a program in java to print number from 0 to 10 using for loop.
 
-Program 163 Practice Program(PrintNumUseDoWhile.java)
+Program 181 Practice Program(PrintNumUseDoWhile.java)
 write a program in java to print number from 0 to 10 using do while loop
 
-Program 163 Practice Program(PrintNumTentoOneUseWhile.java)
+Program 182 Practice Program(PrintNumTentoOneUseWhile.java)
 write a program in java to print no from 10 to 1 using while loop.
 
-Program 163 Practice Program(OverloadingWithtypePromotion1.java)
+Program 183 Practice Program(OverloadingWithtypePromotion1.java)
 write a program in java method overloading with type promotion if matching found.
 
-Program 163 Practice Program(PrintNumOnetoUserEnteredusedowhile.java)
+Program 184 Practice Program(PrintNumOnetoUserEnteredusedowhile.java)
 write a program in java to accept a number and print from 1 to the number entered by the user using do while loop, then ask to user whether to accept another number or not.
 
-Program 163 Practice Program(OverloadingWithtypePromotion.java)
+Program 185 Practice Program(OverloadingWithtypePromotion.java)
 write a program in java method overloading with type promotion.
+
+Program 186 Practice Program(ProtectedAccessModifiers.java)
+write a program in java - use of protected access modifiers in program.
+
+Program 187 Practice Program(PrivateConstructor.java)
+write a program WAP in java - role of private constructor.
+
+Program 188 Practice Program(PrintTotalPerMarks.java)
+write a program in java to print total, percent of the marks of three subjects.
+
+Program 189 Practice Program(OverloadingWithtypePromoMatchFound.java)
+write a program in java method overloading with the type promotion when matching found.
+
+Program 190 Practice Program(OverloadingtypePromoAmbiguity.java)
+write a program in java method overloading with the type promotion in case of ambiguity.
+
+Program 191 Practice Program(StringTokenizerClass1.java)
+write a program in java of nextToken(String delim) method of stringTokenizer class.
+
+Program 192 Practice Program(StringTokenizerClass.java)
+write another program in java of stringTokenizer class.
+
+Program 193 Practice Program(SimpleStringExampl.java)
+write a program in java for simple use string.
+
+Program 194 Practice Program(ReadTempCentigrate.java)
+write a program in java to read the tempin centigrade and display a suitable message according to temp state below.
+
+Program 195 Practice Program(TestAccountSetterGetter.java)
+write a program in java to use setter and getter method.
+
+Program 196 Practice Program(TestAccountInheritance.java)
+write a program in java - how to use Inheritance.
+
+Program 197 Practice Program(TestAbstractionBank.java)
+write a program in java by using abstract class.
+
+Program 198 Practice Program(TestAccountDisplayInfo.java)
+write a program in java to test the Account class and display the information related to the account.
+
+Program 199 Practice Program(TestAbstractionAccount.java)
+write a program in java by using abstract class and abstract method.
+
+Program 200 Practice Program(TestAbstraction2.java)
+write another program in java by using abstract class.
+
+Program 201 Practice Program(TestAbstraction1.java)
+write a program in jav to understand simple example on abstraction.
+
+Program 202 Practice Program(TestAbstraction.java)
+write a program in java - abstract class that has abstract and non-abstract methods and constructor.
+
+Program 203 Practice Program(TestCharacterAlphaDigitSymbol.java)
+write a program in java to check whether a character is an alphabate,digit or a special symbol.
+
+Program 204 Practice Program(TestCloneArray.java)
+write a program in Java to clone the array.
+
+Program 205 Practice Program(TestCallRun.java)
+write a program in java to run a thread by directly calling the run method.
+
+Program 206 Practice Program(TestSublassDeclareSubclassException.java)
+write a program in java in case subclass overriden method declare subclass exception.
+
+Program 207 Practice Program(TestSubclassDeclareSameException.java)
+write a program in java in case subclass overriden method declare same exception.
+
+Program 208 Practice Program(TestSubclassDeclareParentException.java)
+write a program in java in case subclass overriden method declare parent exception.
+
+Program 209 Practice Program(TestSubclassDeclareNoException.java)
+write a program in java in case subclass overriden method declares no exception.
+
+Program 210 Practice Program(TestStringMethodUseForLoop.java)
+write a program in java string method.
+
+Program 211 Practice Program(TestStaticNestedStaticMethod.java)
+write a program in java static nested class with static method.
 
 
 Adv_Java_Practice
