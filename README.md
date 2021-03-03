@@ -49,29 +49,92 @@ write a program to using join method.
 Program 9 Practice Pattern Program(RightPascalTriangle.java)
 write a program to practice Right Pascal Triangle star Patern.
 
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
+* * * * 
+* * * 
+* * 
+* 
+
 Program 10 Practice Pattern Program(RightDownMirrorPattern.java)
 write a program to practice Right Down Mirror star Patern.
+
+*****
+ ****
+  ***
+   **
+    *
 
 Program 11 Practice Pattern Program(RtTiangleStar.java)
 write a program to practice Right Triangle star Patter.
 
+*
+* *
+* * *
+* * * *
+* * * * *
+
 Program 12 Practice Pattern Program(ReversePyramidPattern.java)
 write a program to practice Reverse pyramid Pattern.
+
+* * * * * 
+ * * * * 
+  * * * 
+   * * 
+    * 
 
 Program 13 Practice Pattern Program(Pyramid.java)
 write a program to practice Pyramid Pattern.
 
-Program 14 Practice Pattern Program(MirrorTrianglePattern.java)
+    * 
+   * * 
+  * * * 
+ * * * * 
+* * * * *
+
+Program 14 Practice Pattern Program(MirrorRightTrianglePattern.java)
 write a program to practice Mirror Triangle star Pattern.
+
+     *
+    **
+   ***
+  ****
+ *****
+******
 
 Program 15 Practice Pattern Program(LeftTiangleStar.java)
 write a program to practice Left Triangle star Pattern.
 
+           * 
+         * * 
+       * * * 
+     * * * * 
+   * * * * * 
+
 Program 16 Practice Pattern Program(LeftTianglePascalStar.java)
 write a program to practice Left Triangle Pascal star Pattern.
 
-Program 17 Practice Pattern Program(DownTiangleStarPattern.java)
+    *
+   **
+  ***
+ ****
+*****
+ ****
+  ***
+   **
+    *
+
+Program 17 Practice Pattern Program(DownwardTiangleStarPattern.java)
 write a program to practice Down Triangle star Pattern.
+
+* * * * * 
+* * * * 
+* * * 
+* * 
+* 
 
 Program 18 Practice Thread Program(TestThreadPriority.java)
 write a program to create an example of threadpriority.
