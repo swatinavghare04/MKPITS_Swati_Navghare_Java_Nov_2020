@@ -918,6 +918,66 @@ write a program in java for aggregation.
 Program 254 Practice Program(PrivateConstructor.java)
 write a program in java - role of private constructor.
 
+Program 255 Practice Program(TakeAgePrintMessage.java)
+Write a java program that takes an age (for example 20) as input and prints something as "You look older than 20".
+
+Program 256 Practice Program(MathmaticalOperationsResult.java)
+write a program in java to print on the output of adding, substracting, multiplying and dividing of two numbers which will be entered by the user.
+
+Program 257 Practice Program(EquationResult.java)
+write a program in java to takes three numbers(x,y,z) as input and print the output of (x+y).z and x.y + y.z.
+
+Program 258 Practice Program(ResultSpecifiedOperation.java)
+write a program in java to print the result of the specified operations-
+-1 + 4 * 6
+( 35+ 5 ) % 7
+14 + -4 * 6 / 11
+2 + 15 / 6 * 1 - 7 % 2
+
+Program 259 Practice Program(TestBook2class.java)
+write a program in java to create a class book having methods getdata and showdatat without parameter.
+
+Program 260 Practice Program(PrivateConstructor.java)
+write a program in java to print the result of dividing two numbers.
+
+Program 261 Practice Program(Division.java)
+write a program in java - role of private constructor.
+
+Program 262 Practice Program(SumOfTwo.java)
+write a program in java to print sum of two numbers.
+
+Program 263 Practice Program(TestCustomer2class.java)
+write a program in java in java Create a class book having methods getdata and showdata without parameter.
+
+Program 264 Practice Program(PrintHelloName.java)
+write a program in java in java to print Hello and your name in a seperate line.
+
+Program 265 Practice Program(TestStudent3class.java)
+write a program in java to create a class student having fields rno and name and method getdata and showdata.
+
+Program 266 Practice Program(TestCustomerclass.java)
+write a program in java to Create a class customer having fields custid,custname,address and emailid and getdata
+method with 4 parameters and showdata method.
+
+Program 267 Practice Program(TestBookclass.java)
+write a program in java to create a class book having fields bookid,bookname,price and author and getdata method
+with 4 parameters and showdata method.
+
+Program 268 Practice Program(TestStudent2class.java)
+write a program in java to create a class student having fields rno and name and getdata method with 2 parameters and showdata method.
+
+Program 269 Practice Program(TestStudentclass.java)
+write a program in java to create a class student having fields rno and name.
+
+Program 270 Practice Program(TestEmployeeclass.java)
+write a program in java to create a class eployee having field empno and empname.
+
+Program 271 Practice Program(TestEmployee1class.java)
+write a program in java to create a class eployee having field empno and empname and accept the values from the user.
+
+Program 272 Practice Program(TestStudent1class.java)
+write a program in java to create a class student having fields rno and name and accept the values from the user.
+
 Adv_Java_Practice
 
 Program 1 (Date)
