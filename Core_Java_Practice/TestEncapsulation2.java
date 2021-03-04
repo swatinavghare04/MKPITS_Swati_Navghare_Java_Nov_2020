@@ -1,6 +1,6 @@
 //WAp in java for encapsulation.
 
-package  com.mk;
+package com.mkpits.java.oppsconcept;
 class TestEncapsulation2
 {
  public static void main(String[] args)

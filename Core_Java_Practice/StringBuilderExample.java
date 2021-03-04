@@ -4,7 +4,7 @@ Class StringBuilderExample
 {
 public static void main(String[] args)
 {
-  StringBuilder sb = new StringBuilder("Hello");
+    StringBuilder sb = new StringBuilder("Hello");
   sb.append("Java"); // now original String is changed
   System.out.println(sb);
 }

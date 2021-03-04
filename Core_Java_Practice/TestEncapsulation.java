@@ -1,12 +1,12 @@
 // java class to test the encapsulatedclass
 
-package com.mk;
+package com.mkpits.java.oppsconcept;
 class TestEncapsulation
 {
   public static void main(String[] args)
 {
  // creating instance of the encapsulated class
-PackageStudent1 s = new PackageStudent1();
+  TestEncapsulation s = new TestEncapsulation();
 // setting value in the name member
 s.setName("Sonu");
 // getting valu of the name member

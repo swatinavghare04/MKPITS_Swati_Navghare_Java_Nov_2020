@@ -1,11 +1,11 @@
 //WAP in java for encapsulation.
 
-package  com.mk1;
+package com.mkpits.java.oppsconcept;
 class TestEncapsulation1
 {
  public static void main(String[] args)
 {
- Student4 stud = new Student4();
+ TestEncapsulation1 stud = new TestEncapsulation1();
 stud.setCollege("Swati");
 System.out.println(stud.getName());
 }

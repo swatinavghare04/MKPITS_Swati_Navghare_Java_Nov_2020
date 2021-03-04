@@ -1,10 +1,10 @@
-// WAP in java to use setter and getter method.
+// WAP in java to illustrate getter and setter method.
 
 public class TestAccountSetterGetter
 {
  public static void main(String[] args)
 {
- Account1 act = new Account1();
+ TestAccountSetterGetter act = new TestAccountSetterGetter();
 
 //sttting values through the setter method
 act.setAcc_no(1235768909);
