@@ -10,11 +10,11 @@
 
       public static void main(String[] args){
 
-       for (int i = 1; i <= 5; i++)
+       for (int row = 1; row <= 5; row++)
                {
-                   for (int j = 1; j <= i; j++)
+                   for (int column = 1; column <= row; column++)
                    {
-                       if(j%2 == 0)
+                       if(column%2 == 0)
                        {
                            System.out.print(0);
                        }

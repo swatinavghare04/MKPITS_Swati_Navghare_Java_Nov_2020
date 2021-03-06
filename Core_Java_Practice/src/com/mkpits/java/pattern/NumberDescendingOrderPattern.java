@@ -12,11 +12,11 @@
 
      public static void main(String[] args){
 
-        for(int i=5;i>=1;i--){
+        for(int row=5;row>=1;row--){
 
-        for(int j=5;j>=i;j--){
+        for(int column=5;column>=row;column--){
 
-           System.out.print(j+" ");
+           System.out.print(column+" ");
            }
              System.out.println();
         }

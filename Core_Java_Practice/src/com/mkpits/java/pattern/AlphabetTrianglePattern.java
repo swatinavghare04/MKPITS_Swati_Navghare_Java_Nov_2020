@@ -13,18 +13,18 @@
 
       public static void main(String[] args){
 
-        for (int i = 0; i <= 5; i++) {
+        for (int row = 0; row <= 5; row++) {
 
           int alphabet = 65;
 
-        for (int j = 5; j > i; j--){
+        for (int column = 5; column > row; column--){
 
             System.out.print(" ");
           }
 
-        for (int k = 0; k <= i; k++){
+        for (int column1 = 0; column1 <= row; column1++){
 
-            System.out.print((char) (alphabet + k) + " ");
+            System.out.print((char) (alphabet + column1) + " ");
         }
 
             System.out.println();

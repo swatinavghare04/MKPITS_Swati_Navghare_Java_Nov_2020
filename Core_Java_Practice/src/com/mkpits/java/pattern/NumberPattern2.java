@@ -18,9 +18,9 @@ public class NumberPattern2 {
        int n = sc.nextInt();
         int count = 0;
 
-    for(int i=1;i<=n;i++){
+    for(int row=1;row<=n;row++){
 
-     for( int j=1;j<=i;j++){
+     for( int column=1;column<=row;column++){
             count= count+1;
            System.out.print(count);
 

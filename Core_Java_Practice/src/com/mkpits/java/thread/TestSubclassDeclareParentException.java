@@ -1,9 +1,9 @@
-// Example in case subclass overriden method declare parent exception.
+// WAP in java to demonstrate  exception handling in case subclass overriden method declare parent exception.
 
 import java.io.*;
 class TestParent2
 {
-    void msg()throws ArithmeticException
+    void msg()throws Exception
     {
     System.out.println("Parent");
     }

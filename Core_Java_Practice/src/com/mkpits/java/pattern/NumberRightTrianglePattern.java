@@ -12,10 +12,10 @@ public class NumberRightTrianglePattern{
 
   public static void main(String[] args){
 
-     for(int i=1;i<=5;i++){
-       for(int j=i;j>=1;j--){
+     for(int row=1;row<=5;row++){
+       for(int column=row;column>=1;column--){
 
-          System.out.print(j+" ");
+          System.out.print(column+" ");
        }
 
          System.out.println();

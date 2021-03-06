@@ -14,7 +14,8 @@ class OverloadingtypePromoAmbiguity
  public static void main(String[] args)
  {
   OverloadingtypePromoAmbiguity obj = new OverloadingtypePromoAmbiguity();
-  obj.sum(20,20);// now ambiguity -- compile time error to correct it type obj.sum(20,20L) and obj.sum(20L,20)
+  obj.sum(20,20L);
+  obj.sum(20L,20);
  }
 }
 

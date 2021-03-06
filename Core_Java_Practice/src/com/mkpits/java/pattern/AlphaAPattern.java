@@ -14,11 +14,11 @@ import java.util.*;
 public class AlphaAPattern{
 
   void display(int n){
-	for(int i=0;i<=n;i++){
+	for(int row=0;row<=n;row++){
 
-		for(int j=0;j<=n/2;j++){
+		for(int column=0;column<=n/2;column++){
 
-			if((j==0||j==n/2)&& i!=0 || i==0 && j!=n/2 || i==n/2)
+			if((column==0||column==n/2)&& row!=0 || row==0 && column!=n/2 || row==n/2)
 
 				System.out.print("*");
 

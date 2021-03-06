@@ -8,7 +8,7 @@ public static void main(String[] args)
 {
 
 System.out.println("enetr height of the person");
-scanner sc = new Scanner(system.in);
+Scanner sc = new Scanner(System.in);
 int ht= sc.nextInt();
 
 if(ht<150)

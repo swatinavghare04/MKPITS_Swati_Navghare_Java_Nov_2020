@@ -1,32 +1,32 @@
 /* WAP to print the left triangle star pattern which is given below-
 
-         *
-       * *
-     * * *
-   * * * *
+ *
+ * *
+ * * *
+ * * * *
  * * * * *
 
  */
 
-class LeftTriangleStarPattern{
+class LeftTriangleStarPattern {
 
- public static void main(String[] args){
+    public static void main(String[] args) {
 
-  int i,j;
+        int row, column;
 
-  for(i=1;i<=5;i++){
+        for (row = 1; row <= 5; row++) {
 
-   for(j=4;j>=i;j--){
+            for (column = 4; column >= row; column--) {
 
-    System.out.print(" ");
-   }
+                System.out.print(" ");
+            }
 
-   for(int k=1;k<=i;k++){
+            for (column = 1; column <= row; column++) {
 
-     System.out.print("*");
-     }
+                System.out.print("*");
+            }
 
-     System.out.println();
-  }
- }
+            System.out.println();
+        }
+    }
 }

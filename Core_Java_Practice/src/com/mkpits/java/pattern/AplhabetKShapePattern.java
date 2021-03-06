@@ -15,29 +15,29 @@
 
   */
 
-   public class AplhabetKShapePattern{
+public class AplhabetKShapePattern {
 
-      public static void main(String[] args){
+    public static void main(String[] args) {
 
-     for (int i = 5; i >= 0; i--){
+        for (int row = 5; row >= 0; row--) {
 
-        int alphabet = 65;
-       for (int j = 0; j <= i; j++){
+            int alphabet = 65;
+            for (int column = 0; column <= row; column++) {
 
-           System.out.print((char) (alphabet + j) + " ");
+                System.out.print((char) (alphabet + column) + " ");
+            }
+            System.out.println();
         }
-           System.out.println();
-      }
 
-         for (int i = 0; i<= 5; i++){
+        for (int row = 0; row <= 5; row++) {
 
-           int alphabet = 65;
-           for (int j = 0; j <= i; j++){
+            int alphabet = 65;
+            for (int column = 0; column <= row; column++) {
 
-            System.out.print((char) (alphabet + j) + " ");
-         }
+                System.out.print((char) (alphabet + column) + " ");
+            }
 
-             System.out.println();
+            System.out.println();
         }
-      }
-   }
+    }
+}

@@ -241,8 +241,7 @@ write a program for numeric pattern - Simple uber pattern.
 Program 52 Practice Excepton propagation Program(MultipleCatchBlock2.java)
 write a program for Exception propagation.
 
-Program 53 Practice Exception propagation Program(MultipleCatchBlock3.java)
-write a Program which describes that checked exceptions are not propagated.
+Program 53 Practice Exception propagation Program(.java)
 
 Program 54 Practice Exception propagation Program(MultipleCatchBlock4.java)
 write a Program which describes that checked exceptions are propagated.
