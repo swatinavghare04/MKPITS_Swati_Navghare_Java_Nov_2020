@@ -1,8 +1,8 @@
 // Example of an abstract class that has abstract and non-abstract methods and constructor.
 
-abstract class Bike{
+abstract class TestBikeAbstraction{
 
-    Bike(){
+    TestBikeAbstraction(){
     
              System.out.println("Bike is created");
          }
@@ -15,7 +15,7 @@ abstract class Bike{
        }
      }
     
-    class Honda extends Bike{
+    class Honda extends TestBikeAbstraction{
     
         void run(){
         
@@ -26,8 +26,8 @@ abstract class Bike{
  class TestAbstraction{
  
     public static void main(String[] args){
-    
-       Bike b = new Honda();
+
+        TestBikeAbstraction b = new Honda();
        b.run();
        b.changeGear();
     }

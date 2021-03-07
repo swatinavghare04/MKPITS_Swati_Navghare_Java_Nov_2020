@@ -1,20 +1,20 @@
-// Single level inheritance
+// WAP in java to demonstrate Single level inheritance.
 
-class Animal
+class TestAnimalInheritance
 {
  void eat()
  {
   System.out.println("eating...");
  }
 }
-class Dog extends Animal
+class Dog extends TestAnimalInheritance
 {
  void bark()
  {
   System.out.println("barking...");
  }
 }
-class cat extends Animal
+class cat extends TestAnimalInheritance
 {
  void meow()
  {
