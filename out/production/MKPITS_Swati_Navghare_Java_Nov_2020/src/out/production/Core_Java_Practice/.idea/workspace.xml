@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67fd7c07-d71e-48ab-8493-264c2f454775" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/AXIS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/AcceptGradePrintDescription.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/AcceptMonthDisplayDaysUseSwitch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/AcceptNumPrintTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/AcceptNumandPrintUSeWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/AcceptNumandPrintuseDowhileLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/AcceptnumPrintTableUsefor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/Address.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/AggregationCircle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/AlphaAPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/AlphabetDiamondPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/AlphabetPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/AlphabetRightTrianglePattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/AlphabetTrianglePattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/AplhabetKShapePattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/ArrayDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/Bank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/Bank1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/Bike.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/Book2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/CalculateElectricityBill.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/CalculateProfitLoss.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/Call.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/CategoriesPersonAccToHeight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/CheckAlphabetVowelConsonant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/Circle1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/CloneMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/CovrientReturnType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/Current.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/Customer2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/DeclaedDatatypeFloat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/DeclareByteDatatype.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/DeclareDatatypeBoolean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/DeclareDatatypeChar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/DeclareDatatypeDouble.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/DeclareDatatypeInt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/DeclareDatatypeShort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/DeclareLongDatatype.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/DeclareStringtoStoreValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/DiamondStarPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/DisplayAllPrimeNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/DisplayNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/DisplayProductDetails.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/Division.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/DowncastingByInstanceOf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/DowncastingWithoutInstanceOf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/DownwardTriangleStarPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/Drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/Drawable2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/Eatable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/EmpAggregation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/Employee1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/EmployeeDetails.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/EmployeeDetailsEnteredbyUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/EquationResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/FinalizeExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/FiveNumSumUseForLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/Honda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/Inheritanceemployee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/LargestOfThreeNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/LeftTrianglePascalStar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/LeftTriangleStarPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/LocalInnerClass1$1Local.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/LocalInnerClass1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/LocalInnerClass2$1Local.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/LocalInnerClass2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/M.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/MathmaticalOperationsResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/MirrorRightTrianglePattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/MultiCatchBlock1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/MultiCatchBlock2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/MultiCatchBlock3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/MultiCatchBlock4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/MultiCatchBlock5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/MultiCatchBlock6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/MultipleCatchBlock1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/MultipleCatchBlock2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/MultipleCatchBlock4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/MyThread1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/MyThread2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/NumberBinaryPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/NumberDescendingOrderPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/NumberDiamond1Pattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/NumberDiamondPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/NumberFactorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/NumberPascalTrianglePattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/NumberPattern2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/NumberPattern3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/NumberPrimeorNot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/NumberRightTrianglePattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/NumberZerosOnesPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/Operation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/OverloadingWithtypePromoMatchFound.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/OverloadingWithtypePromotion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/OverloadingWithtypePromotion1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/OverloadingtypePromoAmbiguity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/PNB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/Parent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/Parent1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/PrintFibonacciSeries.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/PrintHelloName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/PrintMonthName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/PrintNumOnetoTenUseWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/PrintNumOnetoTenUsedoWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/PrintNumOnetoUserEnteredUseWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/PrintNumOnetoUserEnteredusedowhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/PrintNumTentoOneUseWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/PrintNumUseDoWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/PrintNumUseForLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/PrintNumtentooneusedoWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/PrintTotalPerMarks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/PrivateConstructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/ProtectedAccessModifiers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/Pyramid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/ReadDayNumDisplayDayNameWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/ReadDigitDisplayword.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/ReadMonthNumDisplayDays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/ReadMonthNumDisplyName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/ReadTempCentigrate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/Rectangle1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/Rectangle2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/ResultSpecifiedOperation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/ReversePyramidPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/RightDownMirrorPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/RightPascalTrianglePattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/RightTriangleStarPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/RuntimeAvailableProcessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/RuntimeFreeandTotalMemoryTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/RuntimeexecMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/RuntimeexecShutdownMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/SBI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/Saving.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/SearchArrayElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/SearchElementMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/Showable$Message.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/Showable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/Simple1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/Simple2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/SimpleNumberPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/SimpleStringExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/StaticStringValueOf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/StaticStringeEqualsIgnorCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/StockDetails.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/StringBufferExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/StringBufferExample2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/StringBufferExample21.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/StringBufferExample3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/StringBufferExample4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/StringBufferExample5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/StringBufferExample6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/StringBufferExample7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/StringBuilderEx01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/StringBuilderEx2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/StringBuilderEx3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/StringBuilderEx4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/StringBuilderEx5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/StringBuilderEx6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/StringBuilderEx7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/StringBuilderExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/StringIndexOf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/StringIndexOf1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/StringSplit1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/StringTokenizerClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/StringTokenizerClass1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/StringTrim.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/StringUSeBooleanEquals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/StringUSeSubstring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/StringUseBoolaenisEmpty.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/StringeConcatenate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/StringeReplace.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/StringeReplace1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/StringeSplit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/StringeUseBooleanContains.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/StringeUseSubstringEx2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/StringtoLowerCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/StringtoUpperCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/Student$instudent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/Student$instudent1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/Student1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/Student2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/Student3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/StudentResultCalculation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/SumOfTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/SupplierDetails.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/Table.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TakeAgePrintMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestA$Message.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestA1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestA12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestA2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestA3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestA4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestA5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestAXIS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestAXIS1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestAXIS2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestAbstract3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestAbstraction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestAbstraction1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestAbstraction2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestAbstractionAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestAbstractionBank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestAccount1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestAccountDisplayInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestAdditionof2Matrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestAnimal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestAnimal1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestAnimal2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestAnimal3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestAnimal4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestAnonymousArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestAnonymousInner$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestAnonymousInner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestAnonymousInner1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestAnonymousInner1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestArray1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestArray4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestArray5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestArrayCopyDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestArrayException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestBank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestBank1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestBook2class.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestBookclass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestCallRun.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestCallbyReference.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestCallbyValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestCharacterAlphaDigitSymbol.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestClonable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestCloneArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestCurrent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestCustomer2class.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestCustomerclass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestDaemonThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestDaemonThread2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestDrawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestDynamicBinding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestEmployee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestEmployee1class.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestEmployeeclass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestExceptionMethodOveriding1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestExceptionMethodOvveriding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestExceptionPropagation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestFinalVariable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestFinalize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestGarbageCollection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestInheritance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestInheritance4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestInstanceInitializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestInstanceOf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestInstanceofOPerator2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestInstanceofOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestInstanceofOperator1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestInstanceofOperator3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestInstanceofOperator4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestInterface1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestInterface2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestInterfaceDefault.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestInterfaceExtensInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestInterfaceStatic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestJaggedArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestJoinMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestJoinMethod2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestM1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestMatrixMultiplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestMultiLevelInheritance01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestMultiLevelInheritance02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestMultidimensionalArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestMultipleInheritance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestMultitasking1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestMultitasking2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestMultitasking3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestMultitasking4$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestMultitasking4$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestMultitasking4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestMultitasking5$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestMultitasking5$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestMultitasking5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestMultpleInherit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestMyThread03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestMyThread1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestMyThread2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestMyThread3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestNestedInterface1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestNestedInterface2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestNestedInterface3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestNestedInterface4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestOverloadingOverriding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestPNB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestPNB1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestPNB2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestParameterizedConstructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestParent2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestParent3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestParent4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestParentclass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestParttimeemployee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestPerson.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestPerson1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestPrintMessage$MessagePrintable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestPrintMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestPrintMessage1$MessagePrintable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestPrintMessage1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestPrivateAccessModofiers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestRectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestReturnArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestSBI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestSBI1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestSBI2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestSandGlass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestSaving.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestShutdownHook1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestShutdownHook2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestShutdownHook2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestSleepMethod1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestStaticBinding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestStaticNestedClass$Inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestStaticNestedClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestStaticNestedStaticMethod$Inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestStaticNestedStaticMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestStringClassMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestStringMethodUseForLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestStringMethodUseForLooptoPrint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestStudent1class.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestStudent2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestStudent2class.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestStudent3class.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestStudentclass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestSubclassDeclareNoException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestSubclassDeclareParentException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestSubclassDeclareSameException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestSublassDeclareSubclassException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestSynchronization.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestSynchronization1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestSynchronization2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestSynchronization2$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestSynchronization2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestSynchronizedBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestSynchronizedBlock2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestSynchronizedBlock2$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestSynchronizedBlock2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestTable1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestTable4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestTable5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestThisKeyword.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestThisKeywordForCallingDefault.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestThisKeywordForCallingParameterized.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestThreadEx1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestThreadEx2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestThreadEx3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestThreadPool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestThreadPriority.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestThreadTwice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestThrowKeyword.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestThrows1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestThrows2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestThrows3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestThrows4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/Testarray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/Testarray2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/Testarray3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/Testemployee1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/Testemployee2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/Testemployee3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestfinallyBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestfinallyBlock1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestfinallyBlock2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/Testprintable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestprintableMulti.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TestshowableMulti.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TesttoString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/ThreadGroupDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TryCatchExample1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TryCatchExample2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TryCatchExample3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TryCatchExample4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TryCatchExample5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TryCatchExample6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TryCatchExample7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TryCatchExample8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TryCatchExceptionex10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/TryCatchExceptionex9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/UseofParameterisedConstructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/WorkerThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/com/mkpits/java/accessmodifers/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/com/mkpits/java/accessmodifers/TestDefaultAccessModifiers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/com/mkpits/java/constructor/TestCircleClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/com/mkpits/java/constructor/TestConstructor1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/com/mkpits/java/immutableclass/ImmutableEmployee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/com/mkpits/java/immutableclass/TestImmutableClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/com/mkpits/java/oppsconcept/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/com/mkpits/java/oppsconcept/Current.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/com/mkpits/java/oppsconcept/Saving.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/com/mkpits/java/oppsconcept/TestAccountInheritance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/example.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/parttimeemployee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/parttimestudent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/printable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/printable1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/printable2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/showable1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/stock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Core_Java_Practice/supplier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/mkpits/java/oppsconcept/TestAbstraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/mkpits/java/oppsconcept/TestAbstraction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/mkpits/java/oppsconcept/TestSingleLevelInheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/mkpits/java/oppsconcept/TestSingleLevelInheritance.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1pOkZPurnI96xGwHu9H7Wt0MB2V" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="RunManager" selected="Application.TestSingleLevelInheritance">
+    <configuration name="TestAbstraction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestAbstraction" />
+      <module name="com" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSingleLevelInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestSingleLevelInheritance" />
+      <module name="com" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestSingleLevelInheritance" />
+        <item itemvalue="Application.TestAbstraction" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67fd7c07-d71e-48ab-8493-264c2f454775" name="Default Changelist" comment="" />
+      <created>1615061579333</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615061579333</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
