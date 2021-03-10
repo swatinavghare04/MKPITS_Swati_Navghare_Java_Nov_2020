@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Core_Java_Practice/src/com/mkpits/java/accessmodifers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Core_Java_Practice/src/com/mkpits/java/aggregation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Core_Java_Practice/src/com/mkpits/java/array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Core_Java_Practice/src/com/mkpits/java/binding" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Core_Java_Practice/src/com/mkpits/java/callbyvalue" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Core_Java_Practice/src/com/mkpits/java/constructor" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Core_Java_Practice/src/com/mkpits/java/datatypes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Core_Java_Practice/src/com/mkpits/java/exceptionhandling" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Core_Java_Practice/src/com/mkpits/java/finallyblock" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Core_Java_Practice/src/com/mkpits/java/garbagecollection" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Core_Java_Practice/src/com/mkpits/java/immutableclass" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Core_Java_Practice/src/com/mkpits/java/innerclass" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Core_Java_Practice/src/com/mkpits/java/instanceinitializer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Core_Java_Practice/src/com/mkpits/java/instanceof" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Core_Java_Practice/src/com/mkpits/java/interface" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Core_Java_Practice/src/com/mkpits/java/keywords" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Core_Java_Practice/src/com/mkpits/java/multicatchblock" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Core_Java_Practice/src/com/mkpits/java/multitasking" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Core_Java_Practice/src/com/mkpits/java/oppsconcept" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Core_Java_Practice/src/com/mkpits/java/overloading" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Core_Java_Practice/src/com/mkpits/java/package" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Core_Java_Practice/src/com/mkpits/java/pattern" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Core_Java_Practice/src/com/mkpits/java/runtime" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Core_Java_Practice/src/com/mkpits/java/simpleprograms" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Core_Java_Practice/src/com/mkpits/java/staicinnerclass" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Core_Java_Practice/src/com/mkpits/java/string" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Core_Java_Practice/src/com/mkpits/java/stringbuffer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Core_Java_Practice/src/com/mkpits/java/stringbuilder" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Core_Java_Practice/src/com/mkpits/java/synchronization" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Core_Java_Practice/src/com/mkpits/java/thread" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Core_Java_Practice/src/com/mkpits/java/trycatchblock" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

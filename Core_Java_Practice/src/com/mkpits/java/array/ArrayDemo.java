@@ -1,4 +1,4 @@
-// example of array
+// WAP in java to demonstrate array.
 
 class ArrayDemo{
 public static void main(String[] args)

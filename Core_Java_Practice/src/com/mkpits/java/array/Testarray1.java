@@ -1,6 +1,6 @@
-// Simple array program
+// WAP in java to demonstrate array.
 
-class TestArray1
+class TestArrayEx2
 {
  public static void main(String[] args)
  {
