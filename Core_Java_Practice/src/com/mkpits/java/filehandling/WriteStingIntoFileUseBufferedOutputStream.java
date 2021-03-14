@@ -1,8 +1,8 @@
-//Example of BufferedOutputStream class.
+//WAP in java to write some string into file using BufferedOutputStream class.
 
 import java.io.*;
 
-public class BufferedOutputStreamExample {
+public class WriteStingIntoFileUseBufferedOutputStream {
     public static void main(String[] args) throws Exception {
         FileOutputStream fout = new FileOutputStream("D:\\testout.txt");
         BufferedOutputStream bout = new BufferedOutputStream(fout);

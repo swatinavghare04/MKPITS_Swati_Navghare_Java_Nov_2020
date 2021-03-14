@@ -1,7 +1,9 @@
-//Java SequenceInputStream Example - in this  we are printing the data of two files testin.txt and testout.txt.
+/* Java SequenceInputStream Example - in this  we are printing the data of two files testin.txt and testout.txt
+using SequenceInputStream.
+ */
 
 import java.io.*;
-public class SequenceInputStreamExample {
+public class PrintDataFromTwoFiles {
     public static void main(String args[])throws Exception{
         FileInputStream input1=new FileInputStream("D:\\testin.txt");
         FileInputStream input2=new FileInputStream("D:\\testout.txt");

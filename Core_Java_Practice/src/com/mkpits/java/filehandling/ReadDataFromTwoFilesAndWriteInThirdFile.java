@@ -1,7 +1,7 @@
 //Example that reads the data from two files and writes into another file.
 
 import java.io.*;
-public class SequenceInputStreamExample1 {
+public class ReadDataFromTwoFilesAndWriteInThirdFile {
     public static void main(String args[])throws Exception{
         FileInputStream fin1=new FileInputStream("D:\\testin.txt");
         FileInputStream fin2=new FileInputStream("D:\\testout.txt");

@@ -1,8 +1,8 @@
-//WAP in java to read data of file using BufferedInputStream.
+//WAP in java to read data from file using BufferedInputStream.
 
 import java.io.*;
 
-public class BufferedInputStreamExample {
+public class ReadDataFromFileUseBufferedInputStream {
     public static void main(String args[]) {
         try {
             FileInputStream fin = new FileInputStream("D:\\testout.txt");

@@ -1,7 +1,7 @@
 // Java FileInputStream example 2: read all characters.
 
 import java.io.FileInputStream;
-public class FileInputStreamExample2 {
+public class ReadAllCharInFromFileUseFileInputStram {
     public static void main(String args[]){
         try{
             FileInputStream fin=new FileInputStream("D:\\testout.txt");

@@ -1,7 +1,7 @@
-package src.com.mkpits.java.filehandling;
+// WAP in java to write capital A in a file named testout.txt using FileOutputStream class.
 
 import java.io.FileOutputStream;
-public class FileOutputStreamExample {
+public class WriteAIntoFileUseFileOutputStream {
     public static void main(String[] args) {
         try {
             FileOutputStream fout = new FileOutputStream("e:\\testout.txt");

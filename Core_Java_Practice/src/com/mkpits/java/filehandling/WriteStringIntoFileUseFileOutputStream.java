@@ -1,8 +1,8 @@
-//Java FileOutputStream example 2: write string.
+//WAP in java to create a file and write some string into it using FileOutputStream class.
 
 import java.io.FileOutputStream;
 
-public class FileOutputStrreamExample2 {
+public class WriteStringIntoFileUseFileOutputStream {
     public static void main(String args[]) {
         try {
             FileOutputStream fout = new FileOutputStream("D:\\testout.txt");
