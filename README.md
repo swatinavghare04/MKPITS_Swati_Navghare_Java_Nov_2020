@@ -1049,6 +1049,67 @@ write a program in java for encapsulation that has only one field with its sette
 #### Program 279 Practice Program(TestStudentEncapsulation .java)
 write a program in java for encapsulation that has only one field with its setter and getter methods.
 
+#### Program 280 Practice File Handling Program(PrintDataFromTwoFiles .java)
+Write a program in java for printing the data of two files testin.txt and testout.txt
+using SequenceInputStream.
+
+#### Program 281 Practice Program(WriteStringIntoFileUseFileOutputStream .java)
+write a program in java to create a file and write some string into it using FileOutputStream class.
+
+#### Program 282 Practice Program(PrintIntValueUsePrintfOfPrintStream.java)
+write a program in java to print integer value using format specifier printf() method of java.io.PrintStream class.
+
+#### Program 283 Practice Program(ReadAllCharInFromFileUseFileInputStram.java)
+write a program in java to read all character from file using FileInputStream.
+
+#### Program 284 Practice Program(ReadDataFromFileUseBufferedInputStream.java)
+write a program in java to read data from file using BufferedInputStream.
+
+#### Program 285 Practice Program(ReadDataFromFileUseFileReader.java)
+write a program in java to read data from the file using fileReader.
+
+#### Program 286 Practice Program(ReadDataFromTwoFilesAndWriteInThirdFile.java)
+write a program in java to reads the data from two files and writes into another file.
+
+#### Program 287 Practice Program(ReadSingleCharFromFileUseFileInputStream.java)
+write a program in java to read single character from file.
+
+#### Program 288 Practice Program(ReadTextFromFileUseInputStreamReader.java)
+write a program in java to read text from the file using InputStreamReader class.
+
+#### Program 289 Practice Program(SimultaneousWriteAndReadFromFile.java)
+write a program in java to simultaneous writing and reading data from File.
+
+#### Program 290 Practice Program(TestAuthentication.java)
+write a program in java to accept username and password and print "authentication successful" if user entered username
+ as admin and password as admin otherwise print "Invalid credentials".
+
+#### Program 291 Practice Program(WriteAIntoFileUseFileOutputStream.java)
+write a program in java to write capital A in a file named testout.txt using FileOutputStream class.
+
+#### Program 292 Practice Program(WriteCharFromAToZIntoFile.java)
+write a program in java to create a file and write character from A to Z using FileOutputStream.
+
+#### Program 293 Practice Program(WriteCommonDataToFilesUseCharArrayWriter.java)
+write a program in java where we are writing a common data to four files a.txt,b.txt,c.txt,d.txt using CharArrayWriter.
+
+#### Program 294 Practice Program(WriteIntAndStringIntoFileUsePrintStream.java)
+write a program in java to write integer and some string into file using printstream class.
+
+#### Program 295 Practice Program(WriteStingIntoFileUseBufferedOutputStream.java)
+write a program in java to write some string into file using BufferedOutputStream class.
+
+#### Program 296 Practice Program( WriteStringIntoFileUseFileOutputStream.java)
+write a program in java to create a file and write some string into it using FileOutputStream class.
+
+#### Program 297 Practice Program(WriteStringIntoFileUseFileWriter.java)
+write a program in java to write some string into a file using FileWriter.
+
+#### Program 298 Practice Program(WriteStringToConsoleAndFileUsePrintWriter.java)
+write a program in java to write some string to console and into the file using PrintWriter class.
+
+#### Program 299 Practice Program(FileOutputStreamExample3.java)
+write a program in java to create a file "testin.txt" and write some string into it using FileOutputStream class
 
 ## Adv_Java_Practice
 #### Program 1 (Date)

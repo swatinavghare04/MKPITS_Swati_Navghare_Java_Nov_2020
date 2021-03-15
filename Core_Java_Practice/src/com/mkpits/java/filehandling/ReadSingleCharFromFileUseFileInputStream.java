@@ -1,4 +1,4 @@
-//Java FileInputStream example 1: read single character.
+//WAP in java to read single character from file.
 
 import java.io.FileInputStream;
 public class ReadSingleCharFromFileUseFileInputStream {

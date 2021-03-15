@@ -1,4 +1,4 @@
-package src.com.mkpits.java.filehandling;
+//WAP in java to create a file "testin.txt" and write some string into it using FileOutputStream class.
 
 import java.io.FileOutputStream;
 public class FileOutputStreamExample3 {

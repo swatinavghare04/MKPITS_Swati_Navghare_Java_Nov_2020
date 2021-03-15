@@ -1,4 +1,4 @@
-// Java FileInputStream example 2: read all characters.
+// WAP in java to read all character from file using FileInputStream.
 
 import java.io.FileInputStream;
 public class ReadAllCharInFromFileUseFileInputStram {

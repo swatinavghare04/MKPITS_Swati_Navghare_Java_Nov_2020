@@ -1,4 +1,4 @@
-// WAP in jva to write integer and some string into file using printstream class.
+// WAP in jva to write integer and some string into file using PrintStream class.
 
 import java.io.FileOutputStream;
 import java.io.PrintStream;

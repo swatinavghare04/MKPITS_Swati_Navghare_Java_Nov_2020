@@ -1,4 +1,4 @@
-// WAP in java to write some string into a file using filewriter.
+// WAP in java to write some string into a file using FileWriter.
 
 import java.io.FileWriter;
 public class WriteStringIntoFileUseFileWriter {

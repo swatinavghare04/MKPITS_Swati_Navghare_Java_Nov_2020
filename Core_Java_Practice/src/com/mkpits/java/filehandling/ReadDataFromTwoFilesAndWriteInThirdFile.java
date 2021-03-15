@@ -1,4 +1,4 @@
-//Example that reads the data from two files and writes into another file.
+//WAP in java to reads the data from two files and writes into another file.
 
 import java.io.*;
 public class ReadDataFromTwoFilesAndWriteInThirdFile {
