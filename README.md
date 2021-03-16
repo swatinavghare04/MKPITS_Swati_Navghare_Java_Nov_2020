@@ -1108,8 +1108,14 @@ write a program in java to write some string into a file using FileWriter.
 #### Program 298 Practice Program(WriteStringToConsoleAndFileUsePrintWriter.java)
 write a program in java to write some string to console and into the file using PrintWriter class.
 
-#### Program 299 Practice Program(FileOutputStreamExample3.java)
-write a program in java to create a file "testin.txt" and write some string into it using FileOutputStream class
+#### Program 299 Practice File Handling Program(FileOutputStreamExample3.java)
+write a program in java to create a file "testin.txt" and write some string into it using FileOutputStream class.
+
+#### Program 300 Practice Program(TestArmstrangNumber.java)
+write a program in java to check whether a entered number is armstrong or not.
+
+#### Program 301 Practice Program(TestPatindromeNum.java)
+write a program in java to check whether entered number is palindrome or not.
 
 ## Adv_Java_Practice
 #### Program 1 (Date)
