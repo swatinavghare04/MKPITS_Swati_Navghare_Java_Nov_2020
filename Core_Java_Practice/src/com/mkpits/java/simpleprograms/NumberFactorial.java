@@ -9,10 +9,16 @@ class NumberFactorial
       Scanner s12 = new Scanner(System.in);
       System.out.println("enter number");
       num = s12.nextInt();
-      while(num>0)
+      /*while(num>0)
        {
 	     fact = fact * num;
 	     num--;
-       }
+       }*/
+
+       for(int i=num;i>=1;i--){
+
+		   fact = fact*i;
+		}
+		System.out.println(fact);
     }
 }

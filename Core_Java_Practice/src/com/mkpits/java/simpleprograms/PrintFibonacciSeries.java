@@ -9,7 +9,7 @@ class PrintFibonacciSeries
      Scanner sdt = new Scanner(System.in);
     System.out.println("enter the number of terms");
      n = sdt.nextInt();
-     for(i=1;i<=10;i++)
+     for(i=1;i<=n;i++)
      {
        c= a+b;
        System.out.println(c);

@@ -9,7 +9,7 @@ class NumberPrimeorNot
    System.out.println("enter the number");
    Scanner can = new Scanner(System.in);
    num = can.nextInt();
-   for(i=2;i<=num-1;i++)
+   for(i=2;i<=num;i++)
     {
       if(num%i==0)
       {
@@ -19,6 +19,6 @@ class NumberPrimeorNot
     if(i==num)
     System.out.println(num + " is a prime number");
     else
-    System.out.println("not a prime number");
+    System.out.println(num + " not a prime number");
    }
 }
