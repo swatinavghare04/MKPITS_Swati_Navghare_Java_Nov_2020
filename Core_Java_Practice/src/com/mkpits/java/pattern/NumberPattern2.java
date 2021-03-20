@@ -16,13 +16,13 @@ public class NumberPattern2 {
        Scanner sc = new Scanner(System.in);
        System.out.println("enter number");
        int n = sc.nextInt();
-        int count = 0;
+        int count = 1;
 
     for(int row=1;row<=n;row++){
 
      for( int column=1;column<=row;column++){
-            count= count+1;
-           System.out.print(count);
+            //count= count+1;
+           System.out.print(count++ + " ");
 
        }
         System.out.println();

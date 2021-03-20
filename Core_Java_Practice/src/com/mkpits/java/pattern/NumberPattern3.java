@@ -16,7 +16,7 @@ public class NumberPattern3 {
 
      for( int column=1;column<=row;column++){
 
-        System.out.print(column);
+        System.out.print(row);
      }
         System.out.println();
     }

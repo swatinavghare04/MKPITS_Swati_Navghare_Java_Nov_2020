@@ -1,7 +1,7 @@
 // WAP in java to check whether entered number is palindrome or not.
 
 import java.util.*;
-class TestPatindromeNum{
+class TestPalindromeNumber {
    public static void main(String[] args){
 
     /* int a,b,c,d,e,f;
