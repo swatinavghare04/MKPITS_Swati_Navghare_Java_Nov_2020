@@ -16,7 +16,7 @@ public class ElevatorProject extends JLabel {
 
     public ElevatorProject(String text) {
         super(text);
-        ImageIcon imgThisImg = new ImageIcon("C:\\Users\\HP\\OneDrive\\Documents");
+        ImageIcon imgThisImg = new ImageIcon("C:\\Users\\HP\\OneDrive\\Documents\\UpArrowImage.png");
         super.setIcon(imgThisImg);
         timer = new Timer(BLINKING_RATE, new TimerListener(this));
         timer.setInitialDelay(0);
