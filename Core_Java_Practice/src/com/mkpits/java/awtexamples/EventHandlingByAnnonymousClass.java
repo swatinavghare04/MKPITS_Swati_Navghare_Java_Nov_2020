@@ -1,3 +1,5 @@
+// WAP in java of event handling by annonymous class.
+
 package src.com.mkpits.java.awtexamples;
 
 import java.awt.*;

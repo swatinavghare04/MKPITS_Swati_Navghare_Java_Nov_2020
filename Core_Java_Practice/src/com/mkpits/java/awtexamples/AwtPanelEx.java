@@ -1,3 +1,5 @@
+// WAP in java using Awt to demonstrate example of Panel.
+
 package src.com.mkpits.java.awtexamples;
 
 import java.awt.*;

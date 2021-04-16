@@ -1,3 +1,5 @@
+// WAP in java using AWT to demonstrate example of choice.
+
 package src.com.mkpits.java.awtexamples;
 
 import java.awt.*;

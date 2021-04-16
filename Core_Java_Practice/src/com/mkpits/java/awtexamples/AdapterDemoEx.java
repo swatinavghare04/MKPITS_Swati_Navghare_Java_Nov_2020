@@ -1,4 +1,4 @@
-package src.com.mkpits.java.awtexamples;
+// WAp in java use AWt to demonstrate Adapter.
 
 import java.awt.*;
 import java.awt.event.*;

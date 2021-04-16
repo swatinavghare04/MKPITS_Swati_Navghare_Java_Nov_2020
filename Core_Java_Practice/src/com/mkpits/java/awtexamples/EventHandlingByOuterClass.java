@@ -1,3 +1,5 @@
+// WAP in java of event handling by outer class.
+
 package src.com.mkpits.java.awtexamples;
 
 import java.awt.*;

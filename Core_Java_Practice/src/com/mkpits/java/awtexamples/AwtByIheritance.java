@@ -1,3 +1,5 @@
+// Simple example of AWT by Inheritance extends Frame class.
+
 package src.com.mkpits.java.awtexamples;
 
 import java.awt.*;

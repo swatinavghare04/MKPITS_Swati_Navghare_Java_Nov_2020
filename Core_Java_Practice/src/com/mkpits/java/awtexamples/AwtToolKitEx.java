@@ -1,3 +1,5 @@
+// WAP in java using AWT to demonstrate example of ToolKit(it will give screen width and height in output)
+
 package src.com.mkpits.java.awtexamples;
 
 import java.awt.*;

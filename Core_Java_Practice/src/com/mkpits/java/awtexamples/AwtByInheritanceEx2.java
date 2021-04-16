@@ -1,7 +1,8 @@
+// Simple example of AWT by Inheritance extends Frame class.
+
 package src.com.mkpits.java.awtexamples;
 
 import java.awt.*;
-
 public class AwtByInheritanceEx2 extends Frame {
     AwtByInheritanceEx2() {
         TextField tf = new TextField();

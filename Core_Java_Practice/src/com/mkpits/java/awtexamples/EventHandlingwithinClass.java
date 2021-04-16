@@ -1,4 +1,7 @@
+// WAP in java of event handling within the class.
+
 package src.com.mkpits.java.awtexamples;
+
 import java.awt.*;
 import java.awt.event.*;
 public class EventHandlingwithinClass extends Frame implements ActionListener{

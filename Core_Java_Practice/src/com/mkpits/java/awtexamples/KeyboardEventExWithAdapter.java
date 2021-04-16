@@ -1,3 +1,5 @@
+// WAP in java using AWT to demonstrate example on Keyboard event with adapter.
+
 package src.com.mkpits.java.awtexamples;
 
 import java.awt.*;

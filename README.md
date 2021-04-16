@@ -1117,6 +1117,96 @@ write a program in java to check whether a entered number is armstrong or not.
 #### Program 301 Practice Program(TestPatindromeNum.java)
 write a program in java to check whether entered number is palindrome or not.
 
+#### Program 302 Practice Program(AdapterDemoEx.java)
+write a program in java use AWt to demonstrate Adapter.
+
+#### Program 303 Practice Program(AwtByAssociation.java)
+write a program in java of AWT by association(by creating object of frame class).
+
+#### Program 304 Practice Program(AwtByInheritance.java)
+write a program in java using AWT by Inheritance.
+
+#### Program 305 Practice Program(AwtByInheritanceCalculatorEx.java)
+write a program in java for calculator using AWT by inheritance.
+
+#### Program 306 Practice Program(AwtBytInheritanceEx2.java)
+write a program in java using AWT by Inheritance.
+
+#### Program 307 Practice Program(AwtCheckBoxEx.java)
+write a program in java using AWT to demonstrate checkbox.
+
+#### Program 308 Practice Program(AwtCheckBoxExWithItemListener.java)
+write a program in java using AWT to demonstrate checkbox with Item Listener.
+
+#### Program 309 Practice Program(AwtChoiceExample.java)
+write a program in java using AWT to demonstrate example of choice.
+
+#### Program 310 Practice Program(AwtChoiceExWithActionListener.java)
+write a program in java using AWT to demonstrate example of choice with Item Listener.
+
+#### Program 311 Practice Program(AwtDialogExample.java)
+write a program in java using AWT to demonstrate example of DialogBox.
+
+#### Program 312 Practice Program(AwtExOnTextArea.java)
+write a program in java using AWT to demonstrate example on Text Area.
+
+#### Program 313 Practice Program(AwtPanelEx.java)
+write a program in java using Awt to demonstrate example of Panel.
+
+#### Program 314 Practice Program(AwtTextAreaExWithActionListener.java)
+write a program in java using AWT to demonstrate example of TextArea with Action Listener.
+
+#### Program 315 Practice Program(AwtTextFieldEx.java)
+write a program in java using AWT to demonstrate example of Text Field.
+
+#### Program 316 Practice Program(AwtTextFieldExwithActionListener.java)
+write a program in java using AWT to demonstrate example of Text Field with Action Listener.
+
+#### Program 317 Practice Program(AwtToolKitEx.java)
+write a program in java using AWT to demonstrate example of ToolKit(it will give screen width and height in output)
+
+#### Program 318 Practice Program(AwtToolKitExToChangeTitleBar.java)
+write a program in java using AWT to demonstrate example on ToolKit to change TitleBar.
+
+#### Program 319 Practice Program(AwtToolKitExUsebeep.java)
+write a program in java using Awt to demonstrate example of ToolKit Use Beep.
+
+#### Program 320 Practice Program(CalculatorByUsingAwt.java)
+write a program in java for calculator using AWT.
+
+#### Program 321 Practice Program(CheckBoxGroupEx.java)
+write a program in java using AWT to demonstrate example of CheckBoxGroup.
+
+#### Program 322 Practice Program(CheckBoxGroupExWithItemListener.java)
+write a program in java using AWt to demonstrate example of CheckBoxGroup with Item Listener.
+
+#### Program 323 Practice Program(DisplayAdditionOfTwoNum.java)
+write a program in java to accept 2 no. from the user and display the additon of 2 no.
+
+#### Program 324 Practice Program(EventHandlingByAnnonymousClass.java)
+write a program in java of event handling by annonymous class.
+
+#### Program 325 Practice Program(EventHandlingByAnnonymousClassEx1.java)
+write another program in java of event handling by annonymous class.
+
+#### Program 326 Practice Program(EventHandlingByOuterClass.java)
+write a program in java of event handling by outer class.
+
+#### Program 327 Practice Program(EventHandlingwithinClass.java)
+write program in java of event handling within the class.
+
+#### Program 328 Practice Program(EventHandlingwithinClassEx1.java)
+write another program in java of event handling within the class.
+
+#### Program 329 Practice Program(ExampleOnWindowListener.java)
+write a program in java using AWT to demonstrate example on Window listener.
+
+#### Program 330 Practice Program(KeyboardEventExample.java)
+write a program in java using AWT to demonstrate example on Keyboard event.
+
+#### Program 331 Practice Program(KeyboardEventExWithAdapter.java)
+write a program in java using AWT to demonstrate example on Keyboard event with adapter.
+
 ## Adv_Java_Practice
 #### Program 1 (Date)
 Description of program

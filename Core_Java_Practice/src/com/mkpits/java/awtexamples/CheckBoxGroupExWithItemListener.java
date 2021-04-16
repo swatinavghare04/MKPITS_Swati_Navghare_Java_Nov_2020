@@ -1,3 +1,5 @@
+// WAP in java using AWt to demonstrate example of CheckBoxGroup with Item Listener.
+
 package src.com.mkpits.java.awtexamples;
 
 import java.awt.*;

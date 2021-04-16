@@ -1,3 +1,5 @@
+// WAP in java for calculator using AWT by inheritance.
+
 package src.com.mkpits.java.awtexamples;
 
 import java.awt.*;
