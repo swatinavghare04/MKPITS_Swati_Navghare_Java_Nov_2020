@@ -1,3 +1,5 @@
+// Write a simple Program in java to demonstrate example on how to use using AWt.
+
 package src.com.mkpits.java.awtexamples;
 
 import java.awt.*;

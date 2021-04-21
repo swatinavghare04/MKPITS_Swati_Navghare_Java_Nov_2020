@@ -1,3 +1,5 @@
+// WAP in java using AWT to demonstrate example on how to use Dialog Box.
+
 package src.com.mkpits.java.awtexamples;
 
 import java.awt.*;

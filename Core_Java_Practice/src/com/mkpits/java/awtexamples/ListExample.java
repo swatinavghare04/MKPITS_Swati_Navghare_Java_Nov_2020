@@ -1,3 +1,5 @@
+// WAP in java using AWT to demonstrate how to use list in example.
+
 package com.mkpits.java.awtexamples;
 
 import java.awt.*;

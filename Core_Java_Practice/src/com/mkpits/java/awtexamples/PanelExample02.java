@@ -1,3 +1,5 @@
+// WAP in java using AWT to demonstrate how to add panel in the frame.
+
 package src.com.mkpits.java.awtexamples;
 
 import java.awt.*;

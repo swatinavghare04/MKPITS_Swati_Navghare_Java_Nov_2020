@@ -1207,6 +1207,43 @@ write a program in java using AWT to demonstrate example on Keyboard event.
 #### Program 331 Practice Program(KeyboardEventExWithAdapter.java)
 write a program in java using AWT to demonstrate example on Keyboard event with adapter.
 
+#### Program 332 Practice Program(ListExample.java)
+write program in java using AWT to demonstrate how to use list in example.
+
+#### Program 333 Practice Program(MenuItemAndMenuEx.java)
+write program in java WAP in java using AWT to demonstrate example on how to use Menu and Menu Item.
+
+#### Program 334 Practice Program(MenuItemAndMenuEx01.java)
+write another program in java using AWT to demonstrate example on how to use Menu and Menu Item.
+
+#### Program 345 Practice Program(MkDialogEx .java)
+write program in java using AWT to demonstrate example on how to use Dialog Box
+
+#### Program 336 Practice Program(MouseWithoutAdapterEx.java)
+write program in java using AWT to demonstrate example on how to use mouse without Adapter.
+
+#### Program 337 Practice Program(PanelExample02.java)
+write another program in java using AWT to demonstrate how to add panel in the frame.
+
+#### Program 338 Practice Program(PopupMenuEx.java)
+write program in java using AWT to demonstrate example on how to use popup Menu in the program.
+
+#### Program 339 Practice Program(RegistrationForm.java)
+write program in java to demonstrate how to make a registration form using AWT.
+
+#### Program 340 Practice Program(ScrollBarExample.java)
+write program in java to demonstrate how to use scrollbar in the program.
+
+#### Program 341 Practice Program(ScrollbarExample02.java)
+write a program in java to demonstrate how to use scrollbar in the program by using Adjustment Listener.
+
+#### Program 342 Practice Program(ScrollbarWithAdjustmentListenerEx.java)
+Write another Program in java to demonstrate how to use scrollbar in the program by using Adjustment Listener.
+
+#### Program 343 Practice Program(SimpleAwtListEx.java)
+Write a simple Program in java to demonstrate example on how to use using AWt.
+
+
 ## Adv_Java_Practice
 #### Program 1 (Date)
 Description of program

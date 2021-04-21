@@ -1,3 +1,5 @@
+// Write another Program in java to demonstrate how to use scrollbar in the program by using Adjustment Listener.
+
 package src.com.mkpits.java.awtexamples;
 
 import java.awt.*;

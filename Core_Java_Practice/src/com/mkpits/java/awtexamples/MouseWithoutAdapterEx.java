@@ -1,3 +1,5 @@
+// WAP in java using AWT to demonstrate example on how to use mouse without Adapter
+
 package src.com.mkpits.java.awtexamples;
 
 import java.awt.*;

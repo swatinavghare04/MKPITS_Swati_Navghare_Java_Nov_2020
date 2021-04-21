@@ -1,3 +1,5 @@
+// WAP in java using AWT to demonstrate example on how to use popup Menu in the program.
+
 package src.com.mkpits.java.awtexamples;
 
 import java.awt.*;

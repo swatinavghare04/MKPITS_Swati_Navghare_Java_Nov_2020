@@ -1,3 +1,5 @@
+// WAP in java to demonstrate how to make a registration form using AWT.
+
 package com.mkpits.java.awtexamples;
 
 import java.awt.*;

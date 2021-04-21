@@ -1,3 +1,5 @@
+// WAP in java to demonstrate how to use scrollbar in the program.
+
 package src.com.mkpits.java.awtexamples;
 
 import java.awt.*;

@@ -1,3 +1,5 @@
+//  Write another program in java using AWT to demonstrate example on how to use Menu and Menu Item.
+
 package src.com.mkpits.java.awtexamples;
 
 import java.awt.*;
