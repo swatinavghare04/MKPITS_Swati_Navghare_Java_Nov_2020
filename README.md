@@ -1243,6 +1243,32 @@ Write another Program in java to demonstrate how to use scrollbar in the program
 #### Program 343 Practice Program(SimpleAwtListEx.java)
 Write a simple Program in java to demonstrate example on how to use using AWt.
 
+#### Program 344 Practice JDBC Program(JdbcEx01.java)
+Write a Program in java to establish a connection between postgresql and Java.
+
+#### Program 345 Practice JDBC Program(JdbcExOfRegisterFormByCreatingRegisterClass.java)
+Write a Program in java for registration form by creating another register class.
+
+#### Program 346 Practice JDBC Program(JdbcExOfRegistrationForm.java)
+Write a Program in java to create simple registration form.
+
+#### Program 347 Practice JDBC Program(JdbcExRegisterFormUsingSwing.java)
+Write a Program in java to to create a registration form using swing.
+
+#### Program 348 Practice JDBC Program(JdbcExToCreateTable.java)
+Write a simple Program in java to create table.
+
+#### Program 349 Practice JDBC Program(JdbcExToUseInsert.java)
+Write a Program in java to shows how we can create records in our COMPANY table.
+
+#### Program 350 Practice JDBC Program(JdbcExToUseUpdateStmt.java)
+Write a Program in java to shows how we can use the UPDATE statement to update any record and then fetch and display updated records from our COMPANY table.
+
+#### Program 351 Practice JDBC Program(JdbcExUsingDeleteStmt.java)
+Write a Program in java to shows how we can use the DELETE statement to delete any record and then fetch and display remaining records from our COMPANY table.
+ 
+#### Program 352 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
+Write a Program in java to shows how we can fetch and display records from our COMPANY table.
 
 ## Adv_Java_Practice
 #### Program 1 (Date)

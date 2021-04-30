@@ -80,7 +80,8 @@ public class ElevatorProject extends JLabel {
                                 break;
                             case 5:
                                 if (count == 10000) {
-                                    j1.setText("2 Floor");
+
+                                     j1.setText("2 Floor");
                                 } else if (count == 20000) {
                                     j1.setText("3 Floor");
                                 } else if (count == 30000) {
