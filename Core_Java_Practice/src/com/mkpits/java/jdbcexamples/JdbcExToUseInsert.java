@@ -17,15 +17,15 @@ public class JdbcExToUseInsert {
             c.setAutoCommit(false);
             System.out.println("Opened database successfully");
             stmt = c.createStatement();
-            String sql = "insert into company(id, name) values(2,'Neha')";
-            stmt.executeUpdate(sql);
+             String sql = "insert into company(id, name) values(2,'Neha')";
+             stmt.executeUpdate(sql);
 
             sql = "insert into company(id, name) values(3,'Sonu');";
             stmt.executeUpdate(sql);
 
-            stmt.close();
-            c.commit();
-            c.close();
+             stmt.close();
+             c.commit();
+             c.close();
 
         } catch(Exception e){
             System.err.println(e.getClass().getName() + ": " + e.getMessage());

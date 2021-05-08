@@ -1117,6 +1117,9 @@ write a program in java to check whether a entered number is armstrong or not.
 #### Program 301 Practice Program(TestPatindromeNum.java)
 write a program in java to check whether entered number is palindrome or not.
 
+<<<<<<< HEAD
+
+=======
 #### Program 302 Practice Program(AdapterDemoEx.java)
 write a program in java use AWt to demonstrate Adapter.
 
@@ -1269,10 +1272,7 @@ Write a Program in java to shows how we can use the DELETE statement to delete a
  
 #### Program 352 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
 Write a Program in java to shows how we can fetch and display records from our COMPANY table.
-
-#### Program 353 Practice JDBC Program(JdbcExOnStudentRegistrationForm.java)
-Write a Program in java to create student registration form using swing
-
+>>>>>>> 48ade4f1e636fcf0b0671590813e4fe9483790a0
 
 ## Adv_Java_Practice
 #### Program 1 (Date)
