@@ -9,7 +9,7 @@ class Parent
     }
 }
 
-class TestExceptionMethodOvveriding extends Parent
+class TestExceptionMethodOverriding extends Parent
 {
  void msg()
  {
@@ -17,7 +17,7 @@ class TestExceptionMethodOvveriding extends Parent
  }
  public static void main(String[] args)
   {
-    Parent p =new TestExceptionMethodOvveriding();
+    Parent p =new TestExceptionMethodOverriding();
     p.msg();
   }
 }

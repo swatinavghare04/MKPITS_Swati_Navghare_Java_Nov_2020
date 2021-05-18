@@ -23,8 +23,14 @@ public class JdbcExToShowHowToFetchAndDisplayRecord {
             while(rs.next()){
                 int id = rs.getInt("id");
                 String name = rs.getString("name");
+                int age = rs.getInt("age");
+                String address = rs.getString("address");
+                float salary = rs.getFloat("salary");
                 System.out.println("ID = " + id);
                 System.out.println("Name ="+ name);
+                System.out.println("Age ="+ age);
+                System.out.println("Address ="+ address);
+                System.out.println("Salary ="+ salary);
                 System.out.println();
             }
             rs.close();

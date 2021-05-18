@@ -47,7 +47,7 @@ public class JdbcExOfRegistrationForm extends Frame{
                 try {
                     Class.forName("org.postgresql.Driver");
                     con=DriverManager.getConnection("jdbc:postgresql://localhost:5432/mkpits01","postgres","sa");
-                    //System.out.println("connected");
+                    System.out.println("connected");
                     st=con.createStatement();
                     String sql="insert into register(username,password) values('"+un +"','"+p+"')";
                     st.executeUpdate(sql);

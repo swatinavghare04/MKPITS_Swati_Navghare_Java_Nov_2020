@@ -8,15 +8,17 @@ import java.sql.Statement;
 import java.sql.*;
 
 public class JdbcExToCreateTable {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         Connection c = null;
         Statement stmt = null;
         try {
             Class.forName("org.postgresql.Driver");
             c = DriverManager.getConnection("jdbc:postgresql://localhost:5432/mkpits01",
                     "postgres", "sa");
+            //System.out.println("Opened database successfully");
+
             stmt = c.createStatement();
-            String sql = "create table Company(id int primary key not null,name varchar(20))";
+            String sql = "create table Company(id int primary key not null,name varchar(20), age int, address varchar(50),salary float)";
             stmt.executeUpdate(sql);
             stmt.close();
             c.close();
@@ -26,6 +28,6 @@ public class JdbcExToCreateTable {
             System.err.println(e.getClass().getName() + ": " + e.getMessage());
             System.exit(0);
         }
-        System.out.println("Opened database successfully");
+        System.out.println("Table created successfully");
     }
 }

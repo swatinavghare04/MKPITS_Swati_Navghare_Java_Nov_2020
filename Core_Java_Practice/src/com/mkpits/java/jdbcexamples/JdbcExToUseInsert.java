@@ -17,10 +17,10 @@ public class JdbcExToUseInsert {
             c.setAutoCommit(false);
             System.out.println("Opened database successfully");
             stmt = c.createStatement();
-             String sql = "insert into company(id, name) values(2,'Neha')";
+             String sql = "insert into company(id, name,age,address,salary) values(1,'Neha',21,'Kurha',20000)";
              stmt.executeUpdate(sql);
 
-            sql = "insert into company(id, name) values(3,'Sonu');";
+            sql = "insert into company(id, name,age,address,salary) values(3,'Sonu',26,'Amravati',30000);";
             stmt.executeUpdate(sql);
 
              stmt.close();

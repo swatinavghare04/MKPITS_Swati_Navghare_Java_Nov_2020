@@ -27,8 +27,14 @@ public class JdbcExToUseUpdateStmt {
              while(rs1.next()){
                  int id = rs1.getInt("id");
                  String name = rs1.getString("name");
+                 int age = rs1.getInt("age");
+                 String address = rs1.getString("address");
+                 float salary = rs1.getFloat("salary");
                  System.out.println("ID ="+ id);
                  System.out.println("Name ="+ name);
+                 System.out.println("Age ="+ age);
+                 System.out.println("Address ="+ address);
+                 System.out.println("Salary ="+ salary);
                  System.out.println();
              }
              rs1.close();

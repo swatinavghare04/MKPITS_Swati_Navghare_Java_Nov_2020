@@ -8,6 +8,8 @@
 
 */
 
+package src.com.mkpits.java.pattern;
+
 import java.util.*;
 public class NumberPattern2 {
 
