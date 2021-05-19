@@ -1,5 +1,5 @@
-// WAP to demonstrate example of Multicatch block where at a time only one exception occurs and its
-//corresponding catch block is invoked.
+/* WAP to demonstrate example of Multicatch block where at a time only one exception occurs and its
+corresponding catch block is invoked. */
 
 package src.com.mkpits.java.practiceprogram;
 

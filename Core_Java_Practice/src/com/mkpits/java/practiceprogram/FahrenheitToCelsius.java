@@ -1,4 +1,4 @@
-// WAp to covert fahrenheit to celsius.
+// WAp to demonstrate how to covert fahrenheit to celsius.
 
 package src.com.mkpits.java.practiceprogram;
 

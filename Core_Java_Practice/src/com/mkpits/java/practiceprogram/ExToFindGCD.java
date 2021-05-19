@@ -1,4 +1,4 @@
-// WAP to find GCD of two numbers.
+// WAP to demonstrate how to find GCD of two numbers.
 
 package src.com.mkpits.java.practiceprogram;
 

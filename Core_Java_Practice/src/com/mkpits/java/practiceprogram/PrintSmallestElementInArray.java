@@ -1,4 +1,4 @@
-// WAP to print the largest element in an array.
+// WAP to print the smallest element in an array.
 
 package src.com.mkpits.java.practiceprogram;
 

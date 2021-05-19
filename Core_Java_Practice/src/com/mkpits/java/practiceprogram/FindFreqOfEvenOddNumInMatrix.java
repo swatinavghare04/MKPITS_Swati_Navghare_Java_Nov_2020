@@ -1,3 +1,5 @@
+//WAP to demonstrate how to find the frequency of even and odd numbers in matrix.
+
 package src.com.mkpits.java.practiceprogram;
 
 public class FindFreqOfEvenOddNumInMatrix {

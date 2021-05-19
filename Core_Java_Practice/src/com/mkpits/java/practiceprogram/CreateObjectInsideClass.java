@@ -1,4 +1,4 @@
-// WAP to create objects inside the same class.
+// WAP to demonstrate how we can create objects inside the same class.
 
 package src.com.mkpits.java.practiceprogram;
 

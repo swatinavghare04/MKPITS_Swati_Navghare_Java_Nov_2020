@@ -1,4 +1,4 @@
-// WAP to find reverse of the string.
+// WAP to demonstrate how to print reverse of the string.
 
 package src.com.mkpits.java.practiceprogram;
 

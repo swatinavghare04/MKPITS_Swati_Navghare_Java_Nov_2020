@@ -1,4 +1,4 @@
-// WAP in java that create a random number between 200 to 400.
+// WAP in java to create a random number between 200 to 400.
 
 
 package src.com.mkpits.java.practiceprogram;
