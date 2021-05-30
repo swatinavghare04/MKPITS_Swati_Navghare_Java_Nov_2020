@@ -5,9 +5,9 @@ package com.mkpits.java.awtexamples;
 import java.awt.*;
 import java.awt.event.*;
 
-public class ListExample extends Frame {
+public class ListExampleWithActionListener extends Frame {
 
-    ListExample() {
+    ListExampleWithActionListener() {
         final Label label = new Label();
         label.setAlignment(Label.CENTER);
         label.setSize(500,100);
@@ -52,7 +52,7 @@ public class ListExample extends Frame {
 
     }
     public static void main(String[] args){
-        new ListExample();
+        new com.mkpits.java.awtexamples.ListExampleWithActionListener();
     }
 
 }
