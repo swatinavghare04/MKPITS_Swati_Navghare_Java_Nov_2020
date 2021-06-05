@@ -1790,3 +1790,85 @@ Write a Program in java program on traversing arraylist using foreach loop
 #### Program 481 Practice Program(TraversingThroughListIterator.java)
 Write a Program in java program on traversing through listiterator
 
+#### Program 481 Practice Program(TraversingThroughListIterator.java)
+Write a Program in java program on traversing through listiterator
+
+#### Program 482 Practice Program(ArrayListAndLinkedListEx01.java)
+Write a Program in java program where we are using ArrayList and LinkedList both.
+
+#### Program 483 Practice Program(ArrayListClassEx01 .java)
+Write a Program in java program to demonstrate List where we are using the ArrayList class as the implementation.
+
+#### Program 484 Practice Program(ArrayListExToAddBookInList.java)
+Write a Program in java program to demonstrate ArrayList example where we are adding books to list and printing all the books.
+
+#### Program 485 Practice Program(ConvertArrayElementIntoList .java)
+Write a Program in java program to demonstrate example to convert array elements into List.
+
+#### Program 486 Practice Program(ConvertListElementIntoArray.java)
+Write a Program in java program to demonstrate example to convert list elements into array.
+
+#### Program 487 Practice Program(ExOnHashSet.java)
+Write a Program in java program to demonstrate example on Hashset
+
+#### Program 488 Practice Program(ExOnHowToSortList.java)
+Write a Program in java program to demonstrate example on how to sort list.
+
+#### Program 489 Practice Program(ExOnListIteratorInterface.java)
+Write a Program in java program to demonstrate example of list Iterator.
+
+#### Program 490 Practice Program(ExUsingGetAndSetMethod.java)
+Write a Program in java program to demonstrate get and set method.
+
+#### Program 491 Practice Program(HashSetEx02.java)
+Write a Program in java program to demonstrate HashSet example ignoring duplicate elements
+
+#### Program 492 Practice Program(LinkedListExToRemoveElement .java)
+Write a Program in java program to demonstrate LinkedList example to remove elements.
+
+#### Program 493 Practice Program(LinkedListEx01.java)
+Write a Program in java program to demonstrate example on linkedlist
+
+#### Program 494 Practice Program(LinkedListEx02.java)
+Write a Program in java to demonstrate example on linkedlist.
+
+#### Program 495 Practice Program(LinkedListExToAddElement.java)
+Write a Program in java program to demonstrate LinkedList example to add elements
+
+#### Program 496 Practice Program(LinkedListExToRemoveElement.java)
+Write a Program in java program to demonstrate LinkedList example to remove elements.
+
+#### Program 497 Practice Program(TraversingThroughListIterator.java)
+Write a Program in java program on traversing through listiterator
+
+#### Program 498 Practice Program(TraversingThroughListIterator.java)
+Write a Program in java program on traversing through listiterator
+
+#### Program 499 Practice Program(TraversingThroughListIterator.java)
+Write a Program in java program on traversing through listiterator
+
+#### Program 500 Practice Program(TraversingThroughListIterator.java)
+Write a Program in java program on traversing through listiterator
+
+#### Program 501 Practice Program(TraversingThroughListIterator.java)
+Write a Program in java program on traversing through listiterator
+
+#### Program 502 Practice Program(TraversingThroughListIterator.java)
+Write a Program in java program on traversing through listiterator
+
+#### Program 503 Practice Program(TraversingThroughListIterator.java)
+Write a Program in java program on traversing through listiterator
+
+#### Program 504 Practice Program(TraversingThroughListIterator.java)
+Write a Program in java program on traversing through listiterator
+
+#### Program 505 Practice Program(TraversingThroughListIterator.java)
+Write a Program in java program on traversing through listiterator
+
+#### Program 506 Practice Program(TraversingThroughListIterator.java)
+Write a Program in java program on traversing through listiterator
+
+#### Program 507 Practice Program(TraversingThroughListIterator.java)
+Write a Program in java program on traversing through listiterator
+
+
