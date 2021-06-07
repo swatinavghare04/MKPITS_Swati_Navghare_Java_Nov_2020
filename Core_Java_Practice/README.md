@@ -1838,37 +1838,98 @@ Write a Program in java program to demonstrate LinkedList example to add element
 #### Program 496 Practice Program(LinkedListExToRemoveElement.java)
 Write a Program in java program to demonstrate LinkedList example to remove elements.
 
-#### Program 497 Practice Program(TraversingThroughListIterator.java)
-Write a Program in java program on traversing through listiterator
+#### Program 497 Practice Program(ArrayDequeBookEx.java)
+Write a Program in java program to demonstrate ArrayDeque example where we are adding books to list and printing all the books.
 
-#### Program 498 Practice Program(TraversingThroughListIterator.java)
-Write a Program in java program on traversing through listiterator
+#### Program 498 Practice Program(ArrayDequeEmployeeEx.java)
+Write a Program in java program to demonstrate ArrayDeque example where we are adding employee to list and printing all the employee information.
 
-#### Program 499 Practice Program(TraversingThroughListIterator.java)
-Write a Program in java program on traversing through listiterator
+#### Program 499 Practice Program(ArrayDequeEx01.java)
+Write a Program in java program to demonstrate example on ArrayDeque.
 
-#### Program 500 Practice Program(TraversingThroughListIterator.java)
-Write a Program in java program on traversing through listiterator
+#### Program 500 Practice Program(ArrayDequeEx02.java)
+Write a Program in java program to demonstrate ArrayDeque Example: offerFirst() and pollLast().
 
-#### Program 501 Practice Program(TraversingThroughListIterator.java)
-Write a Program in java program on traversing through listiterator
+#### Program 501 Practice Program(CollectionOfStudentClassUsingAWT.java)
+Write a Program in java program to demonstrate example on collection of student class.
 
-#### Program 502 Practice Program(TraversingThroughListIterator.java)
-Write a Program in java program on traversing through listiterator
+#### Program 502 Practice Program(HashMapEx01.java)
+Write a Program in java program to demonstrate example of HashMap to store key and value pair.
 
-#### Program 503 Practice Program(TraversingThroughListIterator.java)
-Write a Program in java program on traversing through listiterator
+#### Program 503 Practice Program(HashMapEx02.java)
+Write a Program in java program to demonstrate example on HashMap.
 
-#### Program 504 Practice Program(TraversingThroughListIterator.java)
-Write a Program in java program on traversing through listiterator
+#### Program 504 Practice Program(HashMapExBook.java)
+Write a Program in java program to demonstrate example of HashMap where we are adding books to list and printing all the books.
 
-#### Program 505 Practice Program(TraversingThroughListIterator.java)
-Write a Program in java program on traversing through listiterator
+#### Program 505 Practice Program(HashMapExToAddElement.java)
+Write a Program in java program to demonstrate HashMap to add element.
 
-#### Program 506 Practice Program(TraversingThroughListIterator.java)
-Write a Program in java program on traversing through listiterator
+#### Program 506 Practice Program(HashMapExToRemoveElement.java)
+Write a Program in java program to demonstrate example on HashMap to remove element.
 
-#### Program 507 Practice Program(TraversingThroughListIterator.java)
-Write a Program in java program on traversing through listiterator
+#### Program 507 Practice Program(HashMapToReplaceElement.java)
+Write a Program in java program to demonstrate example on HashMap to replace element.
 
+#### Program 508 Practice Program(LinkedHashMApBook.java)
+Write a Program in java program to demonstrate linkedHashMap example where we are adding books to list and printing all the books.
 
+#### Program 509 Practice Program(LinkedHashMapEx01.java)
+Write a Program in java program to demonstrate example of LinkedHashMap.
+
+#### Program 510 Practice Program(LinkedHashMapEx02.java)
+Write a Program in java program to demonstrate Java LinkedHashMap Example: Key-Value pair.
+
+#### Program 511 Practice Program(LinkedHashMapRemove.java)
+Write a Program in java program to demonstrate Java LinkedHashMap Example:remove().
+
+#### Program 512 Practice Program(LinkedHashSetEx01.java)
+Write a Program in java program to demonstrate example of Java LinkedHashSet class.
+
+#### Program 513 Practice Program(LinkedHashSetEx02 .java)
+Write a Program in java program to demonstrate Java LinkedHashSet example ignoring duplicate Elements.
+
+#### Program 514 Practice Program(LinkedHashSetEx03.java)
+Write a Program in java program to demonstrate example on linked hashset.
+
+#### Program 515 Practice Program(MapComparingByKeyEx.java)
+Write a Program in java program to demonstrate Java Map Example: comparingByKey().
+
+#### Program 516 Practice Program(MapComparingByKeyEx02.java)
+Write a Program in java program to demonstrate Java Map Example: comparingByKey() in Descending Order.
+
+#### Program 517 Practice Program(MapComparingByValueEx.java)
+Write a Program in java program to demonstrate Java Map Example: comparingByValue().
+
+#### Program 518 Practice Program(MapComparingByValueEx02.java)
+Write a Program in java program to demonstrate Java Map Example: comparingByValue() in Descending Order.
+
+#### Program 519 Practice Program(MapExGeneric.java)
+Write a Program in java program to demonstrate Java Map Example: Generic.
+
+#### Program 520 Practice Program(MapExNonGeneric.java)
+Write a Program in java program to demonstrate Java Map Example: Non-Generic (Old Style).
+
+#### Program 521 Practice Program(PriorityQueueEx01.java)
+Write a Program in java program to demonstrate example on PriorityQueue.
+
+#### Program 522 Practice Program(PriorityQueueEx02.java)
+Write a Program in java program to demonstrate priority queue example : where we are adding books to queue and printing all the books.
+
+#### Program 523 Practice Program(TreeSetEx01.java)
+Write a Program in java program to demonstrate example of Java TreeSet.
+
+#### Program 524 Practice Program(TreeSetEx02.java)
+Write a Program in java program to demonstrate example of traversing elements in descending order.
+
+#### Program 525 Practice Program(TreeSetEx03.java)
+Write a Program in java program to demonstrate example to retrieve and remove the highest and lowest Value.
+
+#### Program 526 Practice Program(TreeSetEx04.java)
+Write a Program in java program to demonstrate example, we perform various NavigableSet operations.
+
+#### Program 527 Practice Program(TreeSetEx05.java)
+Write a Program in java program to demonstrate example, we perform various SortedSetSet operations.
+
+#### Program 528 Practice Program(TreeSetEx06.java)
+Write a Program in java program to demonstrate example of treeset where we are adding books to set and printing all the books.
