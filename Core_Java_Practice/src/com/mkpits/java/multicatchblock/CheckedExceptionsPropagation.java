@@ -32,7 +32,7 @@ public class CheckedExceptionsPropagation {
 
    public static void main(String[] args){
 
-       ExampleOfExceptionPropagationUseTryCatch obj = new ExampleOfExceptionPropagationUseTryCatch();
+       CheckedExceptionsPropagation obj = new CheckedExceptionsPropagation();
 		  obj.p();
 
 		 System.out.println("normal flow...");

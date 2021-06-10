@@ -1273,6 +1273,10 @@ Write a Program in java to calculate discount.
 #### Program 355 Practice Program(AreaOfEquilateralTriangle.java)
 Write a Program in java to calculate the area of equilateral triangle.
 
+<<<<<<< HEAD
+<<<<<<< HEAD:Core_Java_Practice/README.md
+=======
+>>>>>>> 97bb1525a8d2b75ccad3e24d90b9c6b3c377edf0
 #### Program 356 Practice Program(CalculateMedian.java)
 Write a Program in java to calculate median.
 
@@ -1933,9 +1937,105 @@ Write a Program in java program to demonstrate example, we perform various Sorte
 
 #### Program 528 Practice Program(TreeSetEx06.java)
 Write a Program in java program to demonstrate example of treeset where we are adding books to set and printing all the books.
+<<<<<<< HEAD
 
 #### Program 529 Practice Program(CreateCustomerTable.java)
 Write a Program in java program to demonstrate how to create customer table.
+=======
+#### Program 352 Practice Program(CalculateMedian.java)
+Write a Program in java to calculate median.
+
+#### Program 352 Practice Program(CompoundInterest.java)
+Write a Program in java to calculate compound interest.
+
+#### Program 352 Practice Program(CopyElementOfOneArrayToAnother.java)
+Write a Program in java to copy all elements of one array into another array.
+
+#### Program 352 Practice Program(CountCharacterInString.java)
+Write a Program in java to count the total number of character in a string.
+
+#### Program 352 Practice Program(CountVowelConsonantInString.java)
+Write a Program in java to count the vowel and consonant in the given string.
+
+#### Program 352 Practice Program(DistanceBwtTwoPoints.java)
+Write a Program in java to calculate distance between two points.
+
+#### Program 352 Practice Program(DivisionOfMatrix.java)
+Write a Program in java to perform division of two matrices.
+
+#### Program 352 Practice Program(DuplicateElementOfAnArray.java)
+Write a Program in java to print the duplicate elements of an array.
+
+#### Program 352 Practice Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
+Write a Program in java to find GCD of two numbers.
+
+#### Program 352 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
+Write a Program in java to shows how we can fetch and display records from our COMPANY table.
+
+#### Program 352 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
+Write a Program in java to shows how we can fetch and display records from our COMPANY table.
+
+#### Program 352 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
+Write a Program in java to shows how we can fetch and display records from our COMPANY table.
+
+#### Program 352 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
+Write a Program in java to shows how we can fetch and display records from our COMPANY table.
+
+#### Program 352 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
+Write a Program in java to shows how we can fetch and display records from our COMPANY table.
+
+#### Program 352 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
+Write a Program in java to shows how we can fetch and display records from our COMPANY table.
+
+#### Program 352 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
+Write a Program in java to shows how we can fetch and display records from our COMPANY table.
+
+#### Program 352 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
+Write a Program in java to shows how we can fetch and display records from our COMPANY table.
+
+#### Program 352 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
+Write a Program in java to shows how we can fetch and display records from our COMPANY table.
+
+#### Program 352 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
+Write a Program in java to shows how we can fetch and display records from our COMPANY table.
+
+#### Program 352 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
+Write a Program in java to shows how we can fetch and display records from our COMPANY table.
+
+#### Program 352 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
+Write a Program in java to shows how we can fetch and display records from our COMPANY table.
+
+#### Program 352 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
+Write a Program in java to shows how we can fetch and display records from our COMPANY table.
+
+#### Program 352 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
+Write a Program in java to shows how we can fetch and display records from our COMPANY table.
+
+#### Program 352 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
+Write a Program in java to shows how we can fetch and display records from our COMPANY table.
+
+#### Program 352 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
+Write a Program in java to shows how we can fetch and display records from our COMPANY table.
+
+#### Program 352 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
+Write a Program in java to shows how we can fetch and display records from our COMPANY table.
+
+#### Program 352 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
+Write a Program in java to shows how we can fetch and display records from our COMPANY table.
+
+#### Program 352 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
+Write a Program in java to shows how we can fetch and display records from our COMPANY table.
+
+#### Program 352 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
+Write a Program in java to shows how we can fetch and display records from our COMPANY table.
+
+#### Program 352 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
+Write a Program in java to shows how we can fetch and display records from our COMPANY table.
+
+#### Program 352 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
+Write a Program in java to shows how we can fetch and display records from our COMPANY table.
+
+>>>>>>> 97bb1525a8d2b75ccad3e24d90b9c6b3c377edf0:C_Practice/README.md
 
 #### Program 530 Practice Program(CreateEmployeeTable.java)
 Write a Program in java program to demonstrate jdbc program to create table into the database.
@@ -1960,3 +2060,5 @@ Write a Program in java program to demonstrate example of treeset where we are a
 
 #### Program 537 Practice Program(TreeSetEx06.java)
 Write a Program in java program to demonstrate example of treeset where we are adding books to set and printing all the books.
+=======
+>>>>>>> 97bb1525a8d2b75ccad3e24d90b9c6b3c377edf0
