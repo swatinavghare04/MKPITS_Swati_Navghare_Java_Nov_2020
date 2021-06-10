@@ -2060,5 +2060,3 @@ Write a Program in java program to demonstrate example of treeset where we are a
 
 #### Program 537 Practice Program(TreeSetEx06.java)
 Write a Program in java program to demonstrate example of treeset where we are adding books to set and printing all the books.
-=======
->>>>>>> 97bb1525a8d2b75ccad3e24d90b9c6b3c377edf0
