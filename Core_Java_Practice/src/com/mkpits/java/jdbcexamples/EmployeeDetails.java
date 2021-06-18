@@ -51,11 +51,9 @@ public class EmployeeDetails extends JFrame {
                     con.close();
 
                     l4.setText("record inserted successfully");
-
                     t1.setText("");
                     t2.setText("");
                     t3.setText("");
-
 
                 } catch(Exception ee){
 
@@ -65,7 +63,98 @@ public class EmployeeDetails extends JFrame {
         });
         add(b1);
 
+        b2 = new JButton("Update");
+        b2.setBounds(220,250,100,30);
+        b2.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                try{
+                    Class.forName("org.postgresql.Driver");
+                    con = DriverManager.getConnection("jdbc:postgresql://localhost:5432/mkpits01","postgres","sa");
+                    stmt = con.createStatement();
+                    String str = "update employee set empname = '"+t2.getText()+"',empaddress = '"+t3.getText()+"' where empnid = '"+t1.getText()+"'";
+                    stmt.executeUpdate(str);
+                    con.close();
 
+                    l4.setText("record updated successfully");
+                    t1.setText("");
+                    t2.setText("");
+                    t3.setText("");
+
+                } catch(Exception ee){
+                    System.out.println(ee.toString());
+                }
+            }
+        });
+        add(b2);
+
+        b3 = new JButton("Delete");
+        b3.setBounds(330,250,100,30);
+        b3.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                try{
+                    Class.forName("org.postgresql.Driver");
+                    con = DriverManager.getConnection("jdbc:postgresql://localhost:5432/mkpits01","postgres","sa");
+                    stmt = con.createStatement();
+                    String str = "delete from employee where empid = '"+t1.getText()+"'";
+                    stmt.executeUpdate(str);
+                    con.close();
+
+                    l4.setText("record deleted successfully");
+                    t1.setText("");
+                    t2.setText("");
+                    t3.setText("");
+
+                } catch(Exception ee){
+                    System.out.println(ee.toString());
+                }
+            }
+        });
+        add(b3);
+
+        JButton b4 = new JButton("Search");
+        b4.setBounds(450,50,100,30);
+        b4.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                try{
+                    Class.forName("org.postgresql.Driver");
+                    con = DriverManager.getConnection("jdbc:postgresql://localhost:5432/mkpits01","postgres","sa");
+                    stmt = con.createStatement();
+                    String str = "search * from employee where empid = '"+t1.getText()+"'";
+                    ResultSet rs =  stmt.executeQuery(str);
+                    int flag = 0;
+                    while (rs.next()) {
+                        flag = 1;
+                        t2.setText(rs.getString("empname"));
+                        t3.setText(rs.getString("empaddress"));
+                    }
+                    if (flag == 0) {
+                        l4.setText("record not found");
+                        t2.setText("");
+                        t3.setText("");
+                    }
+                    rs.close();
+                    con.close();
+
+
+                } catch(Exception ee){
+                    System.out.println(ee.toString());
+                }
+            }
+        });
+        add(b4);
+
+        l4 = new JLabel("status");
+        l4.setBounds(10,300,100,30);
+        add(l4);
+
+        setTitle("Employee Entry Form");
+
+        setLayout(null);
+        setSize(700,500);
+        setVisible(true);
     }
 
     public static void main(String[] args){

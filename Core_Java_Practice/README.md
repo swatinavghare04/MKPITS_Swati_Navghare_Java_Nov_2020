@@ -1937,126 +1937,186 @@ Write a Program in java program to demonstrate example, we perform various Sorte
 
 #### Program 528 Practice Program(TreeSetEx06.java)
 Write a Program in java program to demonstrate example of treeset where we are adding books to set and printing all the books.
-<<<<<<< HEAD
 
 #### Program 529 Practice Program(CreateCustomerTable.java)
 Write a Program in java program to demonstrate how to create customer table.
-=======
-#### Program 352 Practice Program(CalculateMedian.java)
+
+#### Program 530 Practice Program(CalculateMedian.java)
 Write a Program in java to calculate median.
 
-#### Program 352 Practice Program(CompoundInterest.java)
+#### Program 531 Practice Program(CompoundInterest.java)
 Write a Program in java to calculate compound interest.
 
-#### Program 352 Practice Program(CopyElementOfOneArrayToAnother.java)
+#### Program 532 Practice Program(CopyElementOfOneArrayToAnother.java)
 Write a Program in java to copy all elements of one array into another array.
 
-#### Program 352 Practice Program(CountCharacterInString.java)
+#### Program 533 Practice Program(CountCharacterInString.java)
 Write a Program in java to count the total number of character in a string.
 
-#### Program 352 Practice Program(CountVowelConsonantInString.java)
+#### Program 534 Practice Program(CountVowelConsonantInString.java)
 Write a Program in java to count the vowel and consonant in the given string.
 
-#### Program 352 Practice Program(DistanceBwtTwoPoints.java)
+#### Program 535 Practice Program(DistanceBwtTwoPoints.java)
 Write a Program in java to calculate distance between two points.
 
-#### Program 352 Practice Program(DivisionOfMatrix.java)
+#### Program 536 Practice Program(DivisionOfMatrix.java)
 Write a Program in java to perform division of two matrices.
 
-#### Program 352 Practice Program(DuplicateElementOfAnArray.java)
+#### Program 537 Practice Program(DuplicateElementOfAnArray.java)
 Write a Program in java to print the duplicate elements of an array.
 
-#### Program 352 Practice Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
+#### Program 538 Practice Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
 Write a Program in java to find GCD of two numbers.
 
-#### Program 352 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
+#### Program 539 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
 Write a Program in java to shows how we can fetch and display records from our COMPANY table.
 
-#### Program 352 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
+#### Program 540 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
 Write a Program in java to shows how we can fetch and display records from our COMPANY table.
 
-#### Program 352 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
+#### Program 541 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
 Write a Program in java to shows how we can fetch and display records from our COMPANY table.
 
-#### Program 352 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
+#### Program 542 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
 Write a Program in java to shows how we can fetch and display records from our COMPANY table.
 
-#### Program 352 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
+#### Program 543 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
 Write a Program in java to shows how we can fetch and display records from our COMPANY table.
 
-#### Program 352 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
+#### Program 544 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
 Write a Program in java to shows how we can fetch and display records from our COMPANY table.
 
-#### Program 352 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
+#### Program 545 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
 Write a Program in java to shows how we can fetch and display records from our COMPANY table.
 
-#### Program 352 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
+#### Program 546 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
 Write a Program in java to shows how we can fetch and display records from our COMPANY table.
 
-#### Program 352 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
+#### Program 547 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
 Write a Program in java to shows how we can fetch and display records from our COMPANY table.
 
-#### Program 352 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
+#### Program 548 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
 Write a Program in java to shows how we can fetch and display records from our COMPANY table.
 
-#### Program 352 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
+#### Program 549 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
 Write a Program in java to shows how we can fetch and display records from our COMPANY table.
 
-#### Program 352 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
+#### Program 550 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
 Write a Program in java to shows how we can fetch and display records from our COMPANY table.
 
-#### Program 352 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
+#### Program 551 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
 Write a Program in java to shows how we can fetch and display records from our COMPANY table.
 
-#### Program 352 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
+#### Program 552 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
 Write a Program in java to shows how we can fetch and display records from our COMPANY table.
 
-#### Program 352 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
+#### Program 553 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
 Write a Program in java to shows how we can fetch and display records from our COMPANY table.
 
-#### Program 352 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
+#### Program 554 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
 Write a Program in java to shows how we can fetch and display records from our COMPANY table.
 
-#### Program 352 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
+#### Program 555 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
 Write a Program in java to shows how we can fetch and display records from our COMPANY table.
 
-#### Program 352 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
+#### Program 556 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
 Write a Program in java to shows how we can fetch and display records from our COMPANY table.
 
-#### Program 352 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
+#### Program 557 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
 Write a Program in java to shows how we can fetch and display records from our COMPANY table.
 
-#### Program 352 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
+#### Program 558 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
 Write a Program in java to shows how we can fetch and display records from our COMPANY table.
 
-#### Program 352 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
+#### Program 559 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
 Write a Program in java to shows how we can fetch and display records from our COMPANY table.
 
-#### Program 352 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
+#### Program 560 Practice JDBC Program(JdbcExToShowHowToFetchAndDisplayRecord.java)
 Write a Program in java to shows how we can fetch and display records from our COMPANY table.
 
->>>>>>> 97bb1525a8d2b75ccad3e24d90b9c6b3c377edf0:C_Practice/README.md
-
-#### Program 530 Practice Program(CreateEmployeeTable.java)
+#### Program 561 Practice Program(CreateEmployeeTable.java)
 Write a Program in java program to demonstrate jdbc program to create table into the database.
 
-#### Program 531 Practice Program(CreateProductTable.java)
+#### Program 562 Practice Program(CreateProductTable.java)
 Write a Program in java program to demonstrate how to create product table.
 
-#### Program 532 Practice Program(CreateShopTable.java)
+#### Program 563 Practice Program(CreateShopTable.java)
 Write a Program in java program to demonstrate how to create shop table.
 
-#### Program 533 Practice Program(EmployeeDetails.java)
+#### Program 564 Practice Program(EmployeeDetails.java)
 Write a Program in java program to demonstrate how to create a swing form to insert  ,update and delete and search records  into shop table.
 
-#### Program 534 Practice Program(InsertRecordInEmployee.java)
+#### Program 565 Practice Program(InsertRecordInEmployee.java)
 Write a Program in java program to demonstrate program to insert records in our employee table created.
 
-#### Program 535 Practice Program(ShopDetails.java)
+#### Program 566 Practice Program(ShopDetails.java)
 Write a Program in java program to demonstrate simple program to create supplier table.
 
-#### Program 536 Practice Program(TreeSetEx06.java)
-Write a Program in java program to demonstrate example of treeset where we are adding books to set and printing all the books.
+#### Program 567 Practice Program(ProductDetails.java)
+Write a Program create a swing form to insert  ,update and delete and search records  into product table.
 
-#### Program 537 Practice Program(TreeSetEx06.java)
-Write a Program in java program to demonstrate example of treeset where we are adding books to set and printing all the books.
+#### Program 568 Practice Program(awtnexclient.java)
+Write a Program in java to demonstrate how we can send and receive message to client side and use of AWT.
+
+#### Program 569 Practice Program(client1.java)
+Write a Program in java to demonstrate how to connect and send message to server side from client.
+ 
+#### Program 570 Practice Program(Server1.java)
+Write a Program in java to demonstrate how to connect and send message to client side from server.
+
+#### Program 571 Practice Program(MyServer.java)
+Write a Program in java to demonstrate how to send a message to client using loop.
+
+#### Program 572 Practice Program(Helper2.java)
+Write a simple Program in java for continuous communication(related to awtnex program).
+
+#### Program 573 Practice Program(awtnex.java)
+Write a Program in java to demonstrate how client and server communicate with each other.
+
+#### Program 574 Practice Program(dropdown.html)
+Write a Program in HTML for how we use drop down.
+
+#### Program 575 Practice Program(ElementSelector.html
+Write a Program in HTML - use of Element selector.
+
+#### Program 576 Practice Program(InsertTable.html)
+Write a Program in HTML to demonstrate  how we insert table.
+
+#### Program 577 Practice Program(Register.html)
+Write a simple Program in HTML for registration form.
+
+#### Program 578 Practice Program(RegistrationFormEx.html)
+Write a another simple Program in HTML for how to create a registration form.
+
+#### Program 579 Practice Program(SimpleEx02.html)
+Write a simple Program in HTML to demostrate how we use h1,h2...h6 for heading and enter some text.
+
+#### Program 580 Practice Program(SimpleFormEx.html)
+Write a simple Program in HTML for creation first name and last name field in any form.
+
+#### Program 581 Practice Program(StyleAttribute.html)
+Write a simple Program in HTML to demonstrate how we use style attribute.
+
+#### Program 582 Practice Program(UseOfActionAttribute.html)
+Write a simple Program in HTML to demonstrate how we use action attribute.
+
+#### Program 583 Practice Program(UseOfCheckbox.html)
+Write a simple Program in HTML to demonstrate how we use checkbox.
+
+#### Program 584 Practice Program(UseOfColSpan.html)
+Write a simple Program in HTML to demonstrate how we use col span.
+
+#### Program 585 Practice Program(UseOfFlexBox.html)
+Write a simple Program in HTML to demonstrate how we use flexBox
+
+#### Program 586 Practice Program(UseOfRadioButton.html)
+Write a program in HTML to demonstrate how we use radion button.
+
+#### Program 587 Practice Program(UseOfRowSpan.html)
+Write a program in HTML to demonstrate how we use Row Span.
+
+#### Program 588 Practice Program(UseOfRadioButton.html)
+Write a program in HTML to demonstrate how we use radion button.
+
+#### Program 589 Practice Program(UseOfSubmit.html)
+Write a program in HTML to demonstrate how we use submit button.
