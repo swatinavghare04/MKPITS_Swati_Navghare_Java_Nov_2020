@@ -2107,7 +2107,7 @@ Write a simple Program in HTML to demonstrate how we use checkbox.
 Write a simple Program in HTML to demonstrate how we use col span.
 
 #### Program 585 Practice Program(UseOfFlexBox.html)
-Write a simple Program in HTML to demonstrate how we use flexBox
+ZWrite a simple Program in HTML to demonstrate how we use flexBox
 
 #### Program 586 Practice Program(UseOfRadioButton.html)
 Write a program in HTML to demonstrate how we use radion button.
@@ -2120,3 +2120,72 @@ Write a program in HTML to demonstrate how we use radion button.
 
 #### Program 589 Practice Program(UseOfSubmit.html)
 Write a program in HTML to demonstrate how we use submit button.
+
+#### Program 590 Practice Program(JavaScriptEx02.html)
+Write a program in HTML to print hello in javascript.
+
+#### Program 591 Practice Program(AdditionTwoNumbers.html)
+Write a program in HTML to print addition of 2 no.
+
+#### Program 592 Practice Program(CreateFUnction.html)
+Write a program in HTML to create a Javascript function to add two numbers.
+
+#### Program 593 Practice Program(Accept2NoAndDisplay.html)
+Write a program in HTML to create a js function to accept 2 no. from the user and then display the addition.
+
+#### Program 594 Practice Program(Add2NoUseGetElementByid.html)
+Write a program in HTML to create a html form to accept 2 no. and then add using getElementbyid function.
+
+#### Program 595 Practice Program(AddTwoNoEx02.html)
+Write a program in HTML to create a html form to accept 2 no. and then add it using by document.form.element.
+
+#### Program 596 Practice Program(Accept3SubMarksDisplayTP.html)
+Write a program in HTML to create a form to accept 3 subject marks and then display total ,percentage and grade.
+
+#### Program 597 Practice Program(SimpleExOnJavaScript.html)
+Write a program in HTML to demonstrate Simple example on JAvaScript.
+
+#### Program 598 Practice Program(FunctionReturningValueEx.html)
+Write a program in HTML to create an example of function returning a value.
+
+#### Program 599 Practice Program(CreateLoginFUnction.html)
+Write a program in HTML to create a login function and if user enter username as admin and password as admin then 
+display "login successfull " other wise display "invalid username or password"
+and display message "enter name " if user leaves the username text box blank.
+
+#### Program 600 Practice Program(Calculate2NOUseSwitch.html)
+Write a program in HTML to calculate 2 no using switch statement.
+
+#### Program 601 Practice Program(PrintTbaleUseLoop.html)
+Write a program in HTML to print table using for loop.
+
+#### Program 602 Practice Program(ExOnForinLoop.html)
+Write a program in HTML to demonstrate example of for-in loop.
+
+#### Program 603 Practice Program(UseOfSubmit.html)
+Write a program in HTML to demonstrate how we use submit button.
+
+#### Program 604 Practice Program(UseOfSubmit.html)
+Write a program in HTML to demonstrate how we use submit button.
+
+#### Program 605 Practice Program(UseOfSubmit.html)
+Write a program in HTML to demonstrate how we use submit button.
+
+#### Program 606 Practice Program(UseOfSubmit.html)
+Write a program in HTML to demonstrate how we use submit button.
+
+#### Program 607 Practice Program(UseOfSubmit.html)
+Write a program in HTML to demonstrate how we use submit button.
+
+#### Program 608 Practice Program(UseOfSubmit.html)
+Write a program in HTML to demonstrate how we use submit button.
+
+#### Program 609 Practice Program(UseOfSubmit.html)
+Write a program in HTML to demonstrate how we use submit button.
+
+#### Program 610 Practice Program(UseOfSubmit.html)
+Write a program in HTML to demonstrate how we use submit button.
+
+#### Program 611 Practice Program(UseOfSubmit.html)
+Write a program in HTML to demonstrate how we use submit button.
+
