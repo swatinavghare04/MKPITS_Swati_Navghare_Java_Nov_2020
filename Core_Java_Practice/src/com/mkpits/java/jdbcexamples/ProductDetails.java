@@ -195,7 +195,7 @@ public class ProductDetails extends JFrame {
         l8.setBounds(10, 500, 400, 20);
         add(l8);
         setTitle("product entry form");
-        setSize(1000, 800);
+        setSize(600, 600);
         setLayout(null);
         setVisible(true);
     }

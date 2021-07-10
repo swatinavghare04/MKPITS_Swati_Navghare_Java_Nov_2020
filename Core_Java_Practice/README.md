@@ -2165,20 +2165,20 @@ Write a program in HTML to demonstrate example of for-in loop.
 #### Program 603 Practice Program(UseOfSubmit.html)
 Write a program in HTML to demonstrate how we use submit button.
 
-#### Program 604 Practice Program(UseOfSubmit.html)
-Write a program in HTML to demonstrate how we use submit button.
+#### Program 604 Practice Program(MkpitsPage1.html)
+Write a program in HTML/css/booystrap to create a page of mkpits
 
-#### Program 605 Practice Program(UseOfSubmit.html)
-Write a program in HTML to demonstrate how we use submit button.
+#### Program 605 Practice Program(Employee.java)
+Write a program in HTML to demonstrate employee example - how to add, update, delete and search data from the table.
 
-#### Program 606 Practice Program(UseOfSubmit.html)
-Write a program in HTML to demonstrate how we use submit button.
+#### Program 606 Practice Program(CreateShopTableUseAddDeleteUpdateSearch.java)
+Write a program in HTML to demonstrate shop example-how to add, update, delete and search data from the table.
 
-#### Program 607 Practice Program(UseOfSubmit.html)
-Write a program in HTML to demonstrate how we use submit button.
+#### Program 607 Practice Program(CreateEmployeeToAddUpdateDeleteSearchData.html)
+Write a program in HTML to demonstrate employee example - how to add, update, delete and search data from the table.
 
-#### Program 608 Practice Program(UseOfSubmit.html)
-Write a program in HTML to demonstrate how we use submit button.
+#### Program 608 Practice Program(CreateLoginForm.html)
+Write a program in HTML to demonstrate example on how to create a login form using swing.
 
 #### Program 609 Practice Program(UseOfSubmit.html)
 Write a program in HTML to demonstrate how we use submit button.
@@ -2188,4 +2188,3 @@ Write a program in HTML to demonstrate how we use submit button.
 
 #### Program 611 Practice Program(UseOfSubmit.html)
 Write a program in HTML to demonstrate how we use submit button.
-

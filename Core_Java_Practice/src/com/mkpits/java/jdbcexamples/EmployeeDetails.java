@@ -9,7 +9,7 @@ import javax.swing.*;
 public class EmployeeDetails extends JFrame {
     JLabel l1,l2,l3,l4;
     JTextField t1,t2,t3;
-    JButton b1,b2,b3;
+    JButton b1,b2,b3,b4;
 
     Connection con = null;
     Statement stmt = null;
@@ -113,7 +113,7 @@ public class EmployeeDetails extends JFrame {
         });
         add(b3);
 
-        JButton b4 = new JButton("Search");
+        b4 = new JButton("Search");
         b4.setBounds(450,50,100,30);
         b4.addActionListener(new ActionListener() {
             @Override
@@ -122,7 +122,7 @@ public class EmployeeDetails extends JFrame {
                     Class.forName("org.postgresql.Driver");
                     con = DriverManager.getConnection("jdbc:postgresql://localhost:5432/mkpits01","postgres","sa");
                     stmt = con.createStatement();
-                    String str = "search * from employee where empid = '"+t1.getText()+"'";
+                    String str = "search * from employee where empid ='"+t1.getText()+"'";
                     ResultSet rs =  stmt.executeQuery(str);
                     int flag = 0;
                     while (rs.next()) {
@@ -140,7 +140,7 @@ public class EmployeeDetails extends JFrame {
 
 
                 } catch(Exception ee){
-                    System.out.println(ee.toString());
+                    l4.setText(ee.toString());
                 }
             }
         });

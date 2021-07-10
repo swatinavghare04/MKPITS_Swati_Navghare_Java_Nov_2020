@@ -15,6 +15,7 @@ public class JavaMiniProjectOnElevator extends Frame implements ActionListener {
         panel = new Panel();
         panel.setBounds(20, 50, 120, 330);
         panel.setBackground(Color.LIGHT_GRAY);
+        panel.setLayout(null);
 
         panel1 = new Panel();
         panel1.setBounds(30, 100, 100, 100);
@@ -99,11 +100,15 @@ public class JavaMiniProjectOnElevator extends Frame implements ActionListener {
         setVisible(true);
     }
 
+
     public void actionPerformed(ActionEvent e) {
         if (e.getSource() == b1) {
-
-        } else {
+             String str = l1.getText();
+             if(str.equals("floor 1")) {
+                 l1.setText("floor 1");
+             } else {}
         }
+
     }
 
     public static void main(String[] args) {
